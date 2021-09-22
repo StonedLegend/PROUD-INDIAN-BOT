@@ -23,12 +23,12 @@
       "required": true
     },
     "REDIS_PASSWORD": {
-      "description": "Create Redis Uri from redislabs.com",
+      "description": "Create Redis Password from redislabs.com",
       "value": "",
       "required": true
     },
     "REDIS_KEY": {
-      "description": "Create Redis password from redislabs",
+      "description": "Create Redis uri from redislabs",
       "value": "",
       "required": true
     },
