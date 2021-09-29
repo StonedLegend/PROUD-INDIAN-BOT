@@ -183,6 +183,11 @@
       "value": "💫",
       "required": false
     },
+    "ALIVE_EMOJI": {
+      "description": "Set The emojies You Want to Add In Help Command!!",
+      "value": "⚡",
+      "required": false
+    },
     "PM_DATA": {
       "description": "Type DISABLE if you want to disable pm protection... ",
       "value": "ENABLE",
