@@ -37,6 +37,11 @@
       "value": "OFF",
       "required" :false
     },
+    "ADDONS": {
+      "description": "ON or OFF",
+      "value": "True",
+      "required" :false
+    },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
       "value": "@Legend_Userbot",
