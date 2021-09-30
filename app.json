@@ -37,11 +37,6 @@
       "value": "OFF",
       "required" :false
     },
-    "ADDONS": {
-      "description": "ON or OFF",
-      "value": "True",
-      "required" :false
-    },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
       "value": "@Legend_Userbot",
@@ -54,8 +49,8 @@
     },
     "BOY_OR_GIRL": {
       "description": "Set If U are Boy Or Girl",
-      "value": "BOY",
-      "required": false
+      "value": "Boy",
+      "required": true
     },
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .bot command.",
