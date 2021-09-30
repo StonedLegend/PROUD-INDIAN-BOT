@@ -1,3 +1,4 @@
+#!/bin/bash
 
 
 _get_repolink () {
@@ -32,11 +33,11 @@ _set_bot () {
     LEGENDPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo "Done"
-    echo "  LegendBot V2.O Cleaning.."
+    echo "  LegendBot V2.1 Cleaning.."
     rm -rf "$zippath"
     sleep 5
     cd $LEGENDPATH
-    echo "    ⚜️Starting Lêɠêɳ̃dẞø†⚜️     "
+    echo "    • Starting Lêɠêɳ̃dẞøt •    "
     echo "
     LEGENDBOT
     "
