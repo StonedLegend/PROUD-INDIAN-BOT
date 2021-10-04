@@ -42,7 +42,7 @@ _set_bot () {
     LEGENDBOT
     "
 
-    python3 ../setup/updater.py ../requirements.txt requirements.txt
+    python3 ../HACK/setup/update.py ../require.txt require.txt
     python3 -m userbot
 }
 
