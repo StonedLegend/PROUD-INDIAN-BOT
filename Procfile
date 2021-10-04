@@ -1,1 +1,1 @@
-worker: bash BOT
+worker: bash FASBTOT
