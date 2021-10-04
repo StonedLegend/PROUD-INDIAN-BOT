@@ -1,1 +1,1 @@
-worker: bash FASTBOT
+worker: bash LEGENDBOT
