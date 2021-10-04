@@ -1,4 +1,3 @@
-FROM The-LegendBoy/userbot:latest
 
 #Repo Clonning ⚜
 RUN git clone https://github.com/LEGEND-OS/LEGENDUSERBOT.git /root/userbot
