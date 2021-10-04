@@ -1,10 +1,12 @@
-#Repo Clonning ⚡♥️
+FROM The-LegendBoy/userbot:latest
+
+#Repo Clonning ⚜
 RUN git clone https://github.com/LEGEND-OS/LEGENDUSERBOT.git /root/userbot
 
-#working directory 
+#working directory ✔
 WORKDIR /root/userbot
 
-# Install requirements
+# Install requirements❤
 RUN pip3 install -U -r requirements.txt
 
 ENV PATH="/home/userbot/bin:$PATH"
