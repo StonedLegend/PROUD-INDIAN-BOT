@@ -52,6 +52,16 @@
       "value": "Boy",
       "required": true
     },
+    "EXTRA_PLUGIN": {
+      "description": "Set ON OR OFF",
+      "value": "ON",
+      "required": true
+    },
+    "ASSISTANT": {
+      "description": "Set ON OR OFF",
+      "value": "OFF",
+      "required": true
+    },
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .bot command.",
       "value": "https://telegra.ph/file/8249d3fa8b6c38971dfd6.jpg",
