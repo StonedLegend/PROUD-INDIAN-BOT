@@ -34,7 +34,7 @@
     },
     "ABUSE": {
       "description": "ON or OFF",
-      "value": "OFF",
+      "value": "ON",
       "required" :false
     },
     "YOUR_GROUP": {
