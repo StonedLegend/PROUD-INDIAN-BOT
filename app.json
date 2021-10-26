@@ -122,7 +122,7 @@
       "description": "U can Change Ur command Handler By Default it is (.)",
       "value": ".",
       "required": true
-      },
+    },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Putting Others Value May result In Account Ban.",
       "value": ""
