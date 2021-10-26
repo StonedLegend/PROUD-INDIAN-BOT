@@ -1,12 +1,9 @@
-#Repo Clonning ⚡♥️
-RUN git clone https://github.com/LEGEND-OS/LEGENDUSERBOT.git /root/userbot
+FROM teamlegend/legendbot:latest
 
-#working directory 
-WORKDIR /root/userbot
+RUN git clone https://github.com/LEGEND-OS/LEGENDUSERBOT.git ./LEGENDUSERBOT
+RUN pip install --upgrade pip
+RUN pip3 install -r ./LEGENDUSERBOT/requirements.txt
 
-# Install requirements
-RUN pip3 install -U -r requirements.txt
+WORKDIR ./LEGENDUSERBOT
 
-ENV PATH="/home/userbot/bin:$PATH"
-
-CMD ["python3","-m","userbot"]
+CMD ["python3", "-m", "userbot"]
