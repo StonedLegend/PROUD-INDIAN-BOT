@@ -102,10 +102,10 @@
 - `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
 
 ------
-## LegendBot Session
+### Repl
 
 
-### To Get Details Of StringSession Follow Step: 
+    -To Get Details Of StringSession Follow Step: 
 
     - Go To Telegram And Search @UseTGXBot
     - Click Start
@@ -116,8 +116,6 @@
     - U Received APP ID
     - Now Run StringSession Given Below:
    
-
-### StringSession
 
 [![String](https://telegra.ph/file/a6bca4695a54de983c015.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
 
