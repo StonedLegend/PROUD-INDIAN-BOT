@@ -5,10 +5,12 @@
     "keywords": [
     "telegram",
     "userbot",
+    "LegendBot",
     "plugin",
     "modular",
     "productivity"
   ],
+  "stack": "container",
   "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
   "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
   "success_url": "https://t.me/Legend_Userbot",
@@ -24,18 +26,18 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "†hê~Lêɠêɳ̃dẞøY 🇮🇳",
+      "value": "†he Lêɠêɳ̃dẞøY",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "Lêɠêɳ̃dẞø† 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 🇮🇳",
+      "value": "Lêɠêɳ̃dẞø† Is Online",
       "required": false
     },
     "ABUSE": {
-      "description": "ON or OFF",
-      "value": "ON",
-      "required" :false
+      "description": " if u want to on then = ON jf u want to off then =  OFF",
+      "value": "",
+      "required" :true
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
@@ -50,31 +52,31 @@
     "BOY_OR_GIRL": {
       "description": "Set If U are Boy Or Girl",
       "value": "Boy",
-      "required": true
+      "required": false
     },
     "EXTRA_PLUGIN": {
-      "description": "Set ON OR OFF",
+      "description": "If U Want More Plugin Then Make Turn ON, else OFF",
       "value": "ON",
       "required": true
     },
     "ASSISTANT": {
-      "description": "Set ON OR OFF",
-      "value": "OFF",
+      "description": "If u want assistant then make turn ON, else OFF",
+      "value": "ON",
       "required": true
     },
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .bot command.",
-      "value": "https://telegra.ph/file/8249d3fa8b6c38971dfd6.jpg",
-      "required": true
+      "value": "",
+      "required": false 
     },
     "OP_PIC": {
       "description": "Put here any telegraph media link for OP pic in .op command.",
-      "value": "https://telegra.ph/file/19734dd5f44e1de460a8c.jpg",
-      "required": true
+      "value": "",
+      "required": false 
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive Or .legend command.",
-      "value": "https://telegra.ph/file/c84467e9ef71c0c2d65cf.jpg",
+      "value": "",
       "required": false
     },
     "BIO_MSG": {
@@ -84,8 +86,8 @@
     },
     "PM_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/84d39fcb13e617232abb9.jpg",
-      "required": true
+      "value": "",
+      "required": false
     },
     "PM_MSG": {
       "description": "Enter Your custom pm permit msg.",
@@ -127,20 +129,7 @@
     },
     "PLUGIN_CHANNEL": {
       "description": "Copy Group Id And paste here To Get Plugin Channel ID copy and paste here",
-      "value": ""
-    },
-    "PRIVATE_GROUP_BOT_API_ID": {
-      "description": "Create a private group and  add @Missrose_bot then type /id add that value here for save messages",
-      "value": ""
-    },
-    "PRIVATE_GROUP_ID": {
-      "description": "Create a private group add @Missrose_bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
-      "value": ""
-    },
-    "PM_LOGGR_BOT_API_ID": {
-       "description": "for login private messages create a private group and add @missrose_bot and do /id and add that id", 
-       "value": ""
-    }, 
+      "value": "" 
     "LEGEND_STRING": {
       "description": "Get this value by running https://repl.it/@KrishnaJaiswal1/LEGENDBOT#main.py ",
       "value": ""
@@ -185,23 +174,23 @@
     },
     "EMOJI_IN_HELP1": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "⚜",
-      "required": true
+      "value": "",
+      "required": false
     },
     "EMOJI_IN_HELP2": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "💫",
+      "value": "",
       "required": false
     },
     "ALIVE_EMOJI": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "⚡",
+      "value": "",
       "required": false
     },
     "PM_DATA": {
       "description": "Type DISABLE if you want to disable pm protection... ",
       "value": "ENABLE",
-      "required": false 
+      "required": true
     }
   },
   "addons": [
