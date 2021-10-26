@@ -1,1 +1,1 @@
-worker: bash halfmad
+worker: bash LegendBot
