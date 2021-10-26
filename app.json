@@ -1,18 +1,16 @@
 {
-  "name": "Îtß Lêɠêɳ̃dẞø† 🇮🇳",
+  "name": "Lêɠêɳ̃dẞø†",
   "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ †hê~Lêɠêɳ̃dẞøY Made with Love And By Python Language With Hardwork... ❤ ",
-  "logo": "https://telegra.ph/file/cfc1ba8da5fd7ab02fa7d.jpg",
+  "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
     "keywords": [
     "telegram",
     "userbot",
-    "legendot",
     "plugin",
     "modular",
     "productivity"
   ],
-  "stack": "container",
-  "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
+  "repository": "https://github.com/LEGENDS-OP/LEGENDBOT/",
+  "website": "https://github.com/LEGENDS-OP/LEGENDBOT/",
   "success_url": "https://t.me/Legend_Userbot",
   "env": {
     "ENV": {
@@ -26,18 +24,18 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "†he Lêɠêɳ̃dẞøY",
+      "value": "†hê~Lêɠêɳ̃dẞøY 🇮🇳",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "Lêɠêɳ̃dẞø† Is Online",
+      "value": "Lêɠêɳ̃dẞø† 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 🇮🇳",
       "required": false
     },
     "ABUSE": {
-      "description": " if u want to on then = ON jf u want to off then =  OFF",
-      "value": "",
-      "required" :true
+      "description": "ON or OFF",
+      "value": "OFF",
+      "required" :false
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
@@ -51,28 +49,18 @@
     },
     "BOY_OR_GIRL": {
       "description": "Set If U are Boy Or Girl",
-      "value": "Boy",
+      "value": "BOY",
       "required": false
-    },
-    "EXTRA_PLUGIN": {
-      "description": "If U Want More Plugin Then Make Turn ON, else OFF",
-      "value": "ON",
-      "required": true
-    },
-    "ASSISTANT": {
-      "description": "If u want assistant then make turn ON, else OFF",
-      "value": "ON",
-      "required": true
     },
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .bot command.",
       "value": "",
-      "required": false 
+      "required": false
     },
     "OP_PIC": {
       "description": "Put here any telegraph media link for OP pic in .op command.",
       "value": "",
-      "required": false 
+      "required": false
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive Or .legend command.",
@@ -122,14 +110,15 @@
       "description": "U can Change Ur command Handler By Default it is (.)",
       "value": ".",
       "required": true
-    },
+      },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Putting Others Value May result In Account Ban.",
       "value": ""
     },
     "PLUGIN_CHANNEL": {
       "description": "Copy Group Id And paste here To Get Plugin Channel ID copy and paste here",
-      "value": "" 
+      "value": ""
+    }, 
     "LEGEND_STRING": {
       "description": "Get this value by running https://repl.it/@KrishnaJaiswal1/LEGENDBOT#main.py ",
       "value": ""
@@ -174,17 +163,12 @@
     },
     "EMOJI_IN_HELP1": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "",
-      "required": false
+      "value": "⚜",
+      "required": true
     },
     "EMOJI_IN_HELP2": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "",
-      "required": false
-    },
-    "ALIVE_EMOJI": {
-      "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "",
+      "value": "💫",
       "required": false
     },
     "PM_DATA": {
