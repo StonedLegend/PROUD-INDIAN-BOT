@@ -27,17 +27,17 @@ _get_repolink () {
 _set_bot () {
     local zippath
     zippath="PROUDINDIANBOT.zip"
-    echo "  ⚜Downloading PROUDINDIANBOT V3.0Source Code...❤"
+    echo "  ⚜Starting Downloading PROUDINDIANBOT.0Source Code...🇮🇳"
     wget -q $(_get_repolink) -O "$zippath"
-    echo "  Unpacking Data ..."
+    echo "  Unpacking Data thoda ruko tab tak BOLO BHARATH MATA KI  ..."
     STONEDLEGENDAGORA PATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo "Done"
-    echo "  PROUDINDIANBOT V3.0 Cleaning.."
+    echo "  PROUDINDIANBOT SWACH BHARATH ABIYAN CHAL RAH HAI.."
     rm -rf "$zippath"
     sleep 5
     cd $STONEDLEGENDAGORA_PATH
-    echo "    • Starting PROUDINDIANBOT 3.0•    "
+    echo "    • Starting 🇮🇳PROUDINDIANBOT🇮🇳•    "
     echo "
     PROUDINDIANBOT
     "
