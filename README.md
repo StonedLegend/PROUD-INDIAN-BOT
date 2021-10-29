@@ -1,37 +1,37 @@
 <h1 align="center">
-<b> 『†hê Lêɠêɳ̃dẞø†』 </b>
+<b> 『PROUD INDIAN BOT』 </b>
 </h1>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/d17467283e73c884834a5.jpg" alt="LEGEND-OS">
+  <img src="https://te.legra.ph/file/d17467283e73c884834a5.jpg" alt="STONEDLEGENDAGORA">
 </p>
 
 <h6 align="center">
-  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ Lêɠêɳ̃dẞø† ⚡</b>
+  <b>⚡ STONEDLEGENDAGORA's PROUD INDIAN BOT⚡</b>
 </h6>
 
 <h3 align="center">
-  <b>A Smooth & Fast Telegram Userbot Based On Telethon Bot Library.</b>
+  <b>A Smooth & Fast Telegram Userbot Feel Proud To Use Indian Bot Based On Telethon Bot Library.</b>
 </h3>
 
 ------
 <p align="center">
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/LEGEND-OS/LEGENDBOT?style=flat&logo=github&color=success" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/LEGEND-OS/LEGENDBOT?style=flat&logo=github" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logo=github" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/LEGEND-OS/LEGENDBOT?color=success" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/LEGEND-OS/LEGENDBOT?style=flat&logo=github&color=yellow" /> </a>
+<a href="https://github.com/STONEDLEGEND/PROUDINDIANBOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/STONEDLEGEND/PROUDINDIANBOT?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/STONEDLEGEND/PROUDINDIANBOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/STONED-LEGEND/PROUD-INDIAN-BOT?style=flat&logo=github" /> </a>
+<a href="https://github.com/STONED-LEGEND/PROUDINDIANBOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/STONED-LEGEND-AGORA/PROUD-INDIAN-BOT?label=Forks&logo=github" /> </a>
+<a href="https://github.com/STONED-LEGEND-AGORA/PROUD-INDIAN-BOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/STONED-LEGEND-AGORA/PROUD-INDIAN-BOT?color=success" /> </a>
+<a href="https://github.com/STONED LEGEND AGORA/PROUD-INDIAN-BOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/STONED LEGEND AGORA/PROUD INDIAN BOT?style=flat&logo=github&color=yellow" /> </a>
 </p>
 <p align="center">
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub release (latest by date including pre-releases)"> <img src="https://img.shields.io/github/v/release/LEGEND-OS/LEGENDBOT?include_prereleases?style=flat&logo=github" /> </a>
+<a href="https://github.com/STONED LEGEND AGORA/PROUD INDIAN BOT" alt="GitHub release (latest by date including pre-releases)"> <img src="https://img.shields.io/github/v/release/STONED LEGEND/PROUD INDIAN BOT?include_prereleases?style=flat&logo=github" /> </a>
 <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/LEGEND-OS/LEGENDBOT" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
+<a href="https://github.com/STONED LEGEND AGORA/PROUD INDIAN BOT" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
+<a href="https://github.com/STONED LEGEND AGORA/PROUD INDIAN BOT" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/STONED LEGEND AGORA/PROUD INDIAN BOT" /> </a>
+<a href="https://github.com/STONED LEGEND AGORA/PROUD INDIAN BOT/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
 </p>
 <p align="center">
-<a href="https://t.me/Legend_Userbot" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
+<a href="https://t.me/stonedLegendAgora-ProudIndianBot" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://github.com/STONED-LEGEND-AGORA/PROUD-INDIAN-BOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
 </p>
 
