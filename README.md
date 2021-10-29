@@ -1,5 +1,5 @@
 <h1 align="center">
-<b> 『PROUD INDIAN BOT』 </b>
+<b> 『🇮🇳 𝕻𝖗𝖔𝖚𝖉 𝕴𝖓𝖉𝖎𝖆𝖓 𝕭𝖔𝖙 🇮🇳』 </b>
 </h1>
 
 <p align="center">
@@ -7,11 +7,11 @@
 </p>
 
 <h6 align="center">
-  <b>⚡ STONEDLEGENDAGORA's PROUD INDIAN BOT⚡</b>
+  <b>⚡🇮🇳 𝕴𝖓𝖉𝖎𝖆𝖓'𝖘 𝕻𝖗𝖔𝖚𝖉 𝕴𝖓𝖉𝖎𝖆𝖓 𝕭𝖔𝖙 🇮🇳⚡</b>
 </h6>
 
 <h3 align="center">
-  <b>A Smooth & Fast Telegram Userbot Feel Proud To Use Indian Bot Based On Telethon Bot Library.</b>
+  <b>A 𝗪𝗘𝗟𝗟 𝗦𝗘𝗖𝗨𝗥𝗘𝗗 𝗔𝗡𝗗 𝗡𝗔𝗧𝗜𝗢𝗡𝗔𝗟𝗜𝗧𝗬 𝗕𝗢𝗧 𝗢𝗡 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗟𝗜𝗕𝗥𝗔𝗥𝗬.</b>
 </h3>
 
 ------
