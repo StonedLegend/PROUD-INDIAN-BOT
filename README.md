@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/492d3f711add14571dd8b.jpg" alt="STONEDLEGENDAGORA">
+  <img src="https://telegra.ph/file/492d3f711add14571dd8b.jpg" alt="STONEDLEGEND">
 </p>
 
 <h6 align="center">
@@ -11,40 +11,40 @@
 </h6>
 
 <h3 align="center">
-  <b>A 𝗪𝗘𝗟𝗟 𝗦𝗘𝗖𝗨𝗥𝗘𝗗 𝗔𝗡𝗗 𝗡𝗔𝗧𝗜𝗢𝗡𝗔𝗟𝗜𝗧𝗬 𝗕𝗢𝗧 𝗢𝗡 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗟𝗜𝗕𝗥𝗔𝗥𝗬.</b>
+  <b>A 𝗜 𝗔𝗠 𝗣𝗥𝗢𝗨𝗗 𝗧𝗢 𝗕𝗘 𝗔𝗡 𝗜𝗡𝗗𝗜𝗔𝗡 🇮🇳𝗠𝗔𝗔 𝗧𝗨𝗝𝗛𝗘 𝗦𝗔𝗟𝗔𝗠🇮🇳 𝗜 𝗔𝗠 𝗣𝗥𝗢𝗨𝗗 𝗧𝗢 𝗨𝗦𝗘 𝗡𝗔𝗧𝗜𝗢𝗡𝗔𝗟𝗜𝗧𝗬 𝗕𝗢𝗧 🇮🇳𝗣𝗥𝗢𝗨𝗗 𝗜𝗡𝗗𝗜𝗔𝗡 𝗕𝗢𝗧🇮🇳.</b>
 </h3>
 
 ------
 <p align="center">
 <a href="https://github.com/STONEDLEGEND/PROUDINDIANBOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/STONEDLEGEND/PROUDINDIANBOT?style=flat&logo=github&color=success" /> </a>
-<a href="https://github.com/STONEDLEGEND/PROUDINDIANBOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/STONED-LEGEND/PROUD-INDIAN-BOT?style=flat&logo=github" /> </a>
-<a href="https://github.com/STONED-LEGEND/PROUDINDIANBOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/STONED-LEGEND-AGORA/PROUD-INDIAN-BOT?label=Forks&logo=github" /> </a>
-<a href="https://github.com/STONED-LEGEND-AGORA/PROUD-INDIAN-BOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/STONED-LEGEND-AGORA/PROUD-INDIAN-BOT?color=success" /> </a>
-<a href="https://github.com/STONED LEGEND AGORA/PROUD-INDIAN-BOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/STONED LEGEND AGORA/PROUD INDIAN BOT?style=flat&logo=github&color=yellow" /> </a>
+<a href="https://github.com/STONEDLEGEND/PROUDINDIANBOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/STONEDLEGEND/PROUD-INDIAN-BOT?style=flat&logo=github" /> </a>
+<a href="https://github.com/STONEDLEGEND/PROUDINDIANBOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/STONED-LEGEND-AGORA/PROUD-INDIAN-BOT?label=Forks&logo=github" /> </a>
+<a href="https://github.com/STONED-LEGEND/PROUD-INDIAN-BOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/STONED-LEGEND/PROUD-INDIAN-BOT?color=success" /> </a>
+<a href="https://github.com/STONED LEGEND/PROUD-INDIAN-BOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/STONED LEGEND/PROUD INDIAN BOT?style=flat&logo=github&color=yellow" /> </a>
 </p>
 <p align="center">
-<a href="https://github.com/STONED LEGEND AGORA/PROUD INDIAN BOT" alt="GitHub release (latest by date including pre-releases)"> <img src="https://img.shields.io/github/v/release/STONED LEGEND/PROUD INDIAN BOT?include_prereleases?style=flat&logo=github" /> </a>
+<a href="https://github.com/STONED LEGEND/PROUD INDIAN BOT" alt="GitHub release (latest by date including pre-releases)"> <img src="https://img.shields.io/github/v/release/STONED LEGEND/PROUD INDIAN BOT?include_prereleases?style=flat&logo=github" /> </a>
 <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
-<a href="https://github.com/STONED LEGEND AGORA/PROUD INDIAN BOT" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
-<a href="https://github.com/STONED LEGEND AGORA/PROUD INDIAN BOT" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/STONED LEGEND AGORA/PROUD INDIAN BOT" /> </a>
-<a href="https://github.com/STONED LEGEND AGORA/PROUD INDIAN BOT/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
+<a href="https://github.com/STONED LEGEND/PROUD INDIAN BOT" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
+<a href="https://github.com/STONED LEGEND/PROUD INDIAN BOT" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/STONED LEGEND/PROUD INDIAN BOT" /> </a>
+<a href="https://github.com/STONED LEGEND/PROUD INDIAN BOT/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
 </p>
 <p align="center">
-<a href="https://t.me/stonedLegendAgora-ProudIndianBot" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
-<a href="https://github.com/STONED-LEGEND-AGORA/PROUD-INDIAN-BOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
+<a href="https://t.me/stonedLegend-ProudIndianBot" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://github.com/STONED-LEGEND/PROUD-INDIAN-BOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
 </p>
 
 ------
-## Status Of Bot 
+## 𝗦𝗧𝗔𝗧𝗨𝗦 𝗢𝗙 𝗜𝗡𝗗𝗜𝗔𝗡-𝗕𝗢𝗧
 
 <p align="left">
-    <a href="https://github.com/LEGEND-OS/LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-OS/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT?"></a>
+    <a href="https://github.com/STONED-LEGEND/PROUD-INDIAN-BOT/network/members"><img src="https://img.shields.io/github/forks/STONED-LEGEND/PROUD-INDIAN-BOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/STONEDLEGEND/PROUDINDIANBOT/stargazers"><img src="https://img.shields.io/github/stars/STONEDLEGEND/PROUDINDIANBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/STONEDDLEGEND/PROUDINDIANBOT"></a><p align="left"><a href="https://github.com/STONEDLEGEND/PROUDINDIANBOT?"></a>
 
 ------
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Legend_Userbot)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Official_LegendBot)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/PROUD_INDIAN_BOT)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/INDIANBOTSUPPORT)
 
 
 ## Deploy 🚀
@@ -58,22 +58,22 @@
 - [![YouTube Video Views](https://img.shields.io/youtube/views/9dQgdUJfk_k?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/9dQgdUJfk_k)
 
 ------
-## Deploy To Heroku
+## 𝗗𝗘𝗣𝗟𝗢𝗬 𝗧𝗢 𝗛𝗘𝗥𝗢𝗞𝗨
 - Get All The Necessary Variables And Deploy To Heroku.
 - Some Mandatory Variables Are listed [Here](#Variables).
 
-<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FLEGEND-OS%2FLEGENDBOT&template=https%3A%2F%2Fgithub.com%2FLEGEND-OS%2FLEGENDBOT" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
+<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2STONEDLEGEND%2FPROUDINDIANBOT&template=https%3A%2F%2Fgithub.com%2FSTONEDLEGEND%2FPROUDINDIANBOT" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
 </a>
 
 ------
-## Deploy Locally
+## 𝗗𝗘𝗣𝗟𝗢𝗬 𝗟𝗢𝗖𝗔𝗟𝗟𝗬
 
 - Clone the repo. 
 
-`git clone https://github.com/LEGEND-OS/LEGENDUSERBOT.git`
+`git clone https://github.com/STONEDLEGEND/PROUDINDIANBOT.git`
 - Open Cloned Folder.
 
-`cd LEGENDUSERBOT`
+`cd PROUDINDIANBOT`
 - Create VirtualEnv.
 
 `virtualenv -p /usr/bin/python3 venv`
