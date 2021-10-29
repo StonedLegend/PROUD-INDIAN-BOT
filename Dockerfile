@@ -4,6 +4,6 @@ RUN git clone https://github.com/StonedLegend/PROUD-INDIAN-BOT.git ./PROUDINDIAN
 RUN pip install --upgrade pip
 RUN pip3 install -r ./PROUDINDIANBOT/requirements.txt
 
-WORKDIR ./LEGENDUSERBOT
+WORKDIR ./PROUDINDIANBOT
 
 CMD ["python3", "-m", "userbot"]
