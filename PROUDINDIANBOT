@@ -4,19 +4,19 @@
 _get_repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $LEGEND_REPO == "LEGENDBOT" ]]
+    if [[ $STONEDLEGENDAGORA_REPO == "PROUDINDIANBOT" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1PUy9MRUdFTkRVU0VSQk9UL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
-    elif [[ $LEGEND_REPO == "LEGENDBOT" ]]
+    elif [[ $STONEDLEGENDAGORA_REPO == "PROUDINDIANBOT" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1PUy9MRUdFTkRVU0VSQk9UL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
-    elif [[ $LEGEND_REPO =~ $regex ]]
+    elif [[ $STONEDLEGENDAGORA_REPO =~ $regex ]]
     then
-        if [[ $LEGEND_REPO_BRANCH ]]
+        if [[ $STONEDLEGENDAGORA_REPO_BRANCH ]]
         then
-            echo "${LEGEND_REPO}/archive/${LEGEND_REPO_BRANCH}.zip"
+            echo "${STONEDLEGENDAGORA_REPO}/archive/${STONEDLEGENDAGORA_REPO_BRANCH}.zip"
         else
-            echo "${LEGEND_REPO}/archive/master.zip"
+            echo "${STONEDLEGENDAGORA_REPO}/archive/master.zip"
         fi
     else
         echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1PUy9MRUdFTkRVU0VSQk9UL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
@@ -26,20 +26,20 @@ _get_repolink () {
 
 _set_bot () {
     local zippath
-    zippath="LEGENDBOT.zip"
-    echo "  ⚜Downloading LegendBot V3.0Source Code...❤"
+    zippath="PROUDINDIANBOT.zip"
+    echo "  ⚜Downloading PROUDINDIANBOT V3.0Source Code...❤"
     wget -q $(_get_repolink) -O "$zippath"
     echo "  Unpacking Data ..."
-    LEGENDPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
+    STONEDLEGENDAGORA PATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo "Done"
-    echo "  LegendBot V3.0 Cleaning.."
+    echo "  PROUDINDIANBOT V3.0 Cleaning.."
     rm -rf "$zippath"
     sleep 5
-    cd $LEGENDPATH
-    echo "    • Starting Lêɠêɳ̃dẞøt 3.0•    "
+    cd $STONEDLEGENDAGORA_PATH
+    echo "    • Starting PROUDINDIANBOT 3.0•    "
     echo "
-    LEGENDBOT
+    PROUDINDIANBOT
     "
 
     python3 ../setup/updater.py ../requirements.txt requirements.txt
