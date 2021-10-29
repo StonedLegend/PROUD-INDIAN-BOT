@@ -43,14 +43,14 @@
 
 ------
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/PROUD_INDIAN_BOT)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/INDIANBOTSUPPORT)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightblue)](https://t.me/PROUD_INDIAN_BOT)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightblue)](https://t.me/INDIANBOTSUPPORT)
 
 
-## Deploy 🚀
-- [![Heroku](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](#Deploy-To-Heroku)
+## 𝗗𝗘𝗣𝗟𝗢𝗬 𝗣𝗥𝗢𝗨𝗗 𝗜𝗡𝗗𝗜𝗔𝗡 𝗕𝗢𝗧 🚀
+- [![Heroku](https://telegra.ph/file/27bb84639280c7c36a0b8.jpg)](#Deploy-To-Heroku)
 
-- [![Locally](https://telegra.ph/file/15027ba18429789a77255.jpg)](#Deploy-Locally)
+- [![Locally](https://telegra.ph/file/dc772ac957a34d994aa24.jpg)](#Deploy-Locally)
 
 ------
 ## YouTube 📺
