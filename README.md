@@ -42,7 +42,7 @@
     <a href="https://github.com/STONED-LEGEND/PROUD-INDIAN-BOT/network/members"><img src="https://img.shields.io/github/forks/STONED-LEGEND/PROUD-INDIAN-BOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/STONEDLEGEND/PROUDINDIANBOT/stargazers"><img src="https://img.shields.io/github/stars/STONEDLEGEND/PROUDINDIANBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/STONEDDLEGEND/PROUDINDIANBOT"></a><p align="left"><a href="https://github.com/STONEDLEGEND/PROUDINDIANBOT?"></a>
 
 ------
-## Telegram 🏪
+## 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 🏪
 - [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightblue)](https://t.me/PROUD_INDIAN_BOT)
 - [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightblue)](https://t.me/INDIANBOTSUPPORT)
 
@@ -53,13 +53,13 @@
 - [![Locally](https://telegra.ph/file/dc772ac957a34d994aa24.jpg)](#Deploy-Locally)
 
 ------
-## YouTube 📺
-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvp8PY25PTRhFDZjLv3sVfg?style=social)]( https://youtube.com/channel/UC-4mVE6HjhtYygaf2l5DHvA )
-      [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvp8PY25PTRhFDZjLv3sVfg?style=social)](https://youtube.com/channel/UC6mPMgj0gKjaGzL_55hFF-A )
+##𝗦𝗨𝗕𝗦𝗖𝗥𝗜𝗕𝗘 𝗢𝗡 𝗬𝗢𝗨𝗧𝗨𝗕𝗘 𝗙𝗜𝗥𝗦𝗧 📺
+- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvp8PY25PTRhFDZjLv3sVfg?style=social)](https://youtube.com/channel/UC-4mVE6HjhtYygaf2l5DHvA)
+      [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvp8PY25PTRhFDZjLv3sVfg?style=social)](https://youtube.com/channel/UC6mPMgj0gKjaGzL_55hFF-A)
 - [![YouTube Video Views](https://img.shields.io/youtube/views/9dQgdUJfk_k?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/9dQgdUJfk_k)
 
 ------
-## 𝗗𝗘𝗣𝗟𝗢𝗬 𝗧𝗢 𝗛𝗘𝗥𝗢𝗞𝗨
+## 𝗗𝗘𝗣𝗟𝗢𝗬 𝗙𝗥𝗢𝗠 𝗛𝗘𝗥𝗢𝗞𝗨 𝗧𝗢 𝗣𝗥𝗢𝗨𝗗 𝗜𝗡𝗗𝗜𝗔𝗡 𝗕𝗢𝗧
 - Get All The Necessary Variables And Deploy To Heroku.
 - Some Mandatory Variables Are listed [Here](#Variables).
 
@@ -67,7 +67,7 @@
 </a>
 
 ------
-## 𝗗𝗘𝗣𝗟𝗢𝗬 𝗟𝗢𝗖𝗔𝗟𝗟𝗬
+## 𝗗𝗘𝗣𝗟𝗢𝗬 𝗙𝗥𝗢𝗠 𝗟𝗢𝗖𝗔𝗟𝗟𝗬 𝗧𝗢 𝗣𝗥𝗢𝗨𝗗 𝗜𝗡𝗗𝗜𝗔𝗡 𝗕𝗢𝗧
 
 - Clone the repo. 
 
@@ -93,7 +93,7 @@
 
 ---------
 
-## Variables
+## 𝗩𝗔𝗥𝗜𝗔𝗕𝗟𝗘𝗦
 
 - `APP_ID`  =  Get this value from my.telegram.org
 - `API_HASH`  =  Get this value from my.telegram.org
@@ -103,7 +103,7 @@
 - `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
 
 ------
-### Repl
+### 𝗥𝗘𝗣𝗟𝗜𝗧 -𝗦𝗧𝗢𝗡𝗘𝗗𝗟𝗘𝗚𝗘𝗡𝗗/𝗣𝗥𝗢𝗨𝗗-𝗜𝗡𝗗𝗜𝗔𝗡-𝗕𝗢𝗧
 
 
     -To Get Details Of StringSession Follow Step: 
@@ -118,7 +118,7 @@
     - Now Run StringSession Given Below:
    
 
-[![String](https://telegra.ph/file/a6bca4695a54de983c015.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
+[![String](https://telegra.ph/file/c78f19f933664bc87cf4a.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
@@ -126,7 +126,7 @@
     - String will be saved in your Saved Message.
 
 
-### Terminal
+### 𝗧𝗘𝗥𝗠𝗜𝗡𝗔𝗟
 - Open the terminal.
 - Paste this code.
 
@@ -139,7 +139,7 @@
 
 
 ------
-## Disclaimer
+## 𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥
 - We won't be responsible for any kind of ban due to this bot.
 - HellBot was made for fun purpose and to make group management easier.
 - It's your concern if you spam and gets your account banned.
@@ -150,17 +150,17 @@
 
 ------
 
-<h2 align="center"> <a href="https://github.com/LEGEND-OS/LEGENDUSERBOT">⚡ 𝕷êgèñd𝕭øt ⚡</a></h2>
+<h2 align="center"> <a href="https://github.com/LEGEND-OS/LEGENDUSERBOT">🇮🇳 𝕻𝖗𝖔𝖚𝖉 𝕴𝖓𝖉𝖎𝖆𝖓 𝕭𝖔𝖙 🇮🇳</a></h2>
 
 ------------
-# Do U Face Any Problem Contact me Through Telegram 
+# 𝗗𝗢 𝗬𝗢𝗨 𝗙𝗔𝗖𝗘 𝗔𝗡𝗬 𝗣𝗥𝗢𝗕𝗟𝗘𝗠 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗘 𝗧𝗛𝗥𝗢𝗨𝗚𝗛 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 
 
-<a href="https://t.me/Legend_Userbot"><img src="https://img.shields.io/badge/Legend%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/INDIANBOTSUPPORT"><img src="https://img.shields.io/badge/Legend%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
 
-<a href="https://t.me/The_LegendBoy"><img src="https://img.shields.io/badge/CREATOR%20ME-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/INDIANBOTSUPPORT"><img src="https://img.shields.io/badge/CREATOR%20ME-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/The_LegendBoy)
+[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://.me/INDIANBOTSUPPORT)
 
 
 <details>
