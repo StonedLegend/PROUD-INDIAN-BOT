@@ -27,7 +27,7 @@
 ## 𝗗𝗘𝗣𝗟𝗢𝗬 𝗣𝗥𝗢𝗨𝗗 𝗜𝗡𝗗𝗜𝗔𝗡 𝗕𝗢𝗧 🚀
 - [![Heroku](https://telegra.ph/file/27bb84639280c7c36a0b8.jpg)](#Deploy-To-Heroku)
 
-- [![Locally](https://telegra.ph/file/dc772ac957a34d994aa24.jpg)](#Deploy-Locally)
+- [![Locally](#Deploy-Locally)
 
 ------
 ##𝗦𝗨𝗕𝗦𝗖𝗥𝗜𝗕𝗘 𝗢𝗡 𝗬𝗢𝗨𝗧𝗨𝗕𝗘 𝗙𝗜𝗥𝗦𝗧 📺
