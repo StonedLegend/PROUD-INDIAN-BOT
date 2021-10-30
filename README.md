@@ -2,11 +2,11 @@
 <b> 『"⚡🇮🇳⚡ 𝕻𝖗𝖔𝖚𝖉 𝕴𝖓𝖉𝖎𝖆𝖓 𝕭𝖔𝖙 ⚡🇮🇳⚡" 』 </b>
 </h1>
 
-[![PROUD-INDIAN-BOT](https://telegra.ph/file/8c3296520865d74522cd0.jpg)] (https://github.com/StonedLegend/PROUD-INDIAN-BOT.git)
+[![PROUD-INDIAN-BOT](https://telegra.ph/file/8c3296520865d74522cd0.jpg)]
 
 
 <h3 align="center">
-  <b>A ɪ ᴀᴍ ᴘʀᴏᴜᴅ ᴛᴏ ʙᴇ ᴀɴ ɪɴᴅɪᴀɴ🇮🇳𝗠𝗔𝗔 𝗧𝗨𝗝𝗛𝗘 𝗦𝗔𝗟𝗔𝗠🇮🇳 ɪ ᴀᴍ ᴘʀᴏᴜᴅ ᴛᴏ ᴜsᴇ ɴᴀᴛɪᴏɴᴀʟɪᴛʏ ʙᴏᴛ🇮🇳𝗣𝗥𝗢𝗨𝗗 𝗜𝗡𝗗𝗜𝗔𝗡 𝗕𝗢𝗧🇮🇳.</b>
+  <b>A ɪ ᴀᴍ ᴘʀᴏᴜᴅ ᴛᴏ ʙᴇ ᴀɴ ɪɴᴅɪᴀɴ🇮🇳𝗠𝗔𝗔 𝗧𝗨𝗝𝗛𝗘 𝗦𝗔𝗟𝗔𝗠🇮🇳 ɪ ᴀᴍ ᴘʀᴏᴜᴅ ᴛᴏ ᴜsᴇ ɴᴀᴛɪᴏɴᴀʟɪᴛʏ ʙᴏᴛ⚡🇮🇳⚡𝗣𝗥𝗢𝗨𝗗 𝗜𝗡𝗗𝗜𝗔𝗡 𝗕𝗢𝗧⚡🇮🇳⚡.</b>
 </h3>
 
 ------
@@ -14,20 +14,20 @@
 
 
 
-## 𝗗𝗘𝗣𝗟𝗢𝗬 𝗣𝗥𝗢𝗨𝗗 𝗜𝗡𝗗𝗜𝗔𝗡 𝗕𝗢𝗧 🚀
+## ⚡🇮🇳⚡𝗗𝗘𝗣𝗟𝗢𝗬 𝗣𝗥𝗢𝗨𝗗 𝗜𝗡𝗗𝗜𝗔𝗡 𝗕𝗢𝗧⚡🇮🇳⚡ 🚀
 
 - [![Heroku](https://telegra.ph/file/27bb84639280c7c36a0b8.jpg)](#Deploy-To-Heroku)
 
 - [![Locally](#Deploy-Locally)
 
 ------
-##𝗦𝗨𝗕𝗦𝗖𝗥𝗜𝗕𝗘 𝗢𝗡 𝗬𝗢𝗨𝗧𝗨𝗕𝗘 𝗙𝗜𝗥𝗦𝗧 📺
+##⚡🇮🇳⚡𝗦𝗨𝗕𝗦𝗖𝗥𝗜𝗕𝗘 𝗢𝗡 𝗬𝗢𝗨𝗧𝗨𝗕𝗘 𝗙𝗜𝗥𝗦𝗧⚡🇮🇳⚡ 📺
 - [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvp8PY25PTRhFDZjLv3sVfg?style=social)](https://youtube.com/channel/UC-4mVE6HjhtYygaf2l5DHvA)
 - [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvp8PY25PTRhFDZjLv3sVfg?style=social)](https://youtube.com/channel/UC6mPMgj0gKjaGzL_55hFF-A)
 - [![YouTube Video Views](https://img.shields.io/youtube/views/9dQgdUJfk_k?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/9dQgdUJfk_k)
 
 ------
-## 𝗗𝗘𝗣𝗟𝗢𝗬 𝗙𝗥𝗢𝗠 𝗛𝗘𝗥𝗢𝗞𝗨 𝗧𝗢 𝗣𝗥𝗢𝗨𝗗 𝗜𝗡𝗗𝗜𝗔𝗡 𝗕𝗢𝗧
+## ⚡🇮🇳⚡𝗗𝗘𝗣𝗟𝗢𝗬 𝗙𝗥𝗢𝗠 𝗛𝗘𝗥𝗢𝗞𝗨 𝗧𝗢 𝗣𝗥𝗢𝗨𝗗 𝗜𝗡𝗗𝗜𝗔𝗡 𝗕𝗢𝗧⚡🇮🇳⚡
 - Get All The Necessary Variables And Deploy To Heroku.
 - Some Mandatory Variables Are listed [Here](#Variables).
 
@@ -35,7 +35,7 @@
 </a>
 
 ------
-## 𝗗𝗘𝗣𝗟𝗢𝗬 𝗙𝗥𝗢𝗠 𝗟𝗢𝗖𝗔𝗟𝗟𝗬 𝗧𝗢 𝗣𝗥𝗢𝗨𝗗 𝗜𝗡𝗗𝗜𝗔𝗡 𝗕𝗢𝗧
+## ⚡🇮🇳⚡𝗗𝗘𝗣𝗟𝗢𝗬 𝗙𝗥𝗢𝗠 𝗟𝗢𝗖𝗔𝗟𝗟𝗬 𝗧𝗢 𝗣𝗥𝗢𝗨𝗗 𝗜𝗡𝗗𝗜𝗔𝗡 𝗕𝗢𝗧⚡🇮🇳⚡
 
 - Clone the repo. 
 
@@ -61,7 +61,7 @@
 
 ---------
 
-## 𝗩𝗔𝗥𝗜𝗔𝗕𝗟𝗘𝗦
+## ⚡🇮🇳⚡𝗩𝗔𝗥𝗜𝗔𝗕𝗟𝗘𝗦⚡🇮🇳⚡
 
 - `APP_ID`  =  Get this value from my.telegram.org
 - `API_HASH`  =  Get this value from my.telegram.org
@@ -71,7 +71,7 @@
 - `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
 
 ------
-### 𝗥𝗘𝗣𝗟𝗜𝗧 -𝗦𝗧𝗢𝗡𝗘𝗗𝗟𝗘𝗚𝗘𝗡𝗗/𝗣𝗥𝗢𝗨𝗗-𝗜𝗡𝗗𝗜𝗔𝗡-𝗕𝗢𝗧
+### ⚡🇮🇳⚡𝗥𝗘𝗣𝗟𝗜𝗧 -𝗦𝗧𝗢𝗡𝗘𝗗𝗟𝗘𝗚𝗘𝗡𝗗/𝗣𝗥𝗢𝗨𝗗-𝗜𝗡𝗗𝗜𝗔𝗡-𝗕𝗢𝗧⚡🇮🇳⚡
 
 
     -To Get Details Of StringSession Follow Step: 
@@ -94,7 +94,7 @@
     - Proud Indian Bot String will be saved in your Saved Message.
 
 
-### 𝗧𝗘𝗥𝗠𝗜𝗡𝗔𝗟
+### ⚡🇮🇳⚡𝗧𝗘𝗥𝗠𝗜𝗡𝗔𝗟⚡🇮🇳⚡
 - Open the terminal.
 - Paste this code.
 
@@ -107,7 +107,7 @@
 
 
 ------
-## 𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥
+## ⚡🇮🇳⚡𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥⚡🇮🇳⚡
 - We won't be responsible for any kind of ban due to this bot.
 - Proud Indian Bot was made for fun purpose and to make group management easier.
 - It's your concern if you spam and gets your account banned.
@@ -118,10 +118,10 @@
 
 ------
 
-<h2 align="center"> <a href="https://github.com/StonedLegend/PROUD-INDIAN-BOT">🇮🇳 𝕻𝖗𝖔𝖚𝖉 𝕴𝖓𝖉𝖎𝖆𝖓 𝕭𝖔𝖙 🇮🇳</a></h2>
+<h2 align="center"> <a href="https://github.com/StonedLegend/PROUD-INDIAN-BOT">⚡🇮🇳⚡ 𝕻𝖗𝖔𝖚𝖉 𝕴𝖓𝖉𝖎𝖆𝖓 𝕭𝖔𝖙 ⚡🇮🇳⚡</a></h2>
 
 ------------
-# 𝗗𝗢 𝗬𝗢𝗨 𝗙𝗔𝗖𝗘 𝗔𝗡𝗬 𝗣𝗥𝗢𝗕𝗟𝗘𝗠 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗘 𝗧𝗛𝗥𝗢𝗨𝗚𝗛 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 
+# ⚡🇮🇳⚡𝗗𝗢 𝗬𝗢𝗨 𝗙𝗔𝗖𝗘 𝗔𝗡𝗬 𝗣𝗥𝗢𝗕𝗟𝗘𝗠 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗘 𝗧𝗛𝗥𝗢𝗨𝗚𝗛 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠⚡🇮🇳⚡ 
 
 <a href="https://t.me/INDIANBOTSUPPORT"><img src="https://img.shields.io/badge/𝗦𝗧𝗢𝗡𝗘𝗗-𝗟𝗘𝗚𝗘𝗡𝗗%20𝗚𝗥𝗢𝗨𝗣-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
