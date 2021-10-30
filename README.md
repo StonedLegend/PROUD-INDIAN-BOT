@@ -22,29 +22,6 @@
 <a href="https://github.com/STONED-LEGEND/PROUD-INDIAN-BOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/STONED-LEGEND/PROUD-INDIAN-BOT?color=success" /> </a>
 <a href="https://github.com/STONED LEGEND/PROUD-INDIAN-BOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/STONED LEGEND/PROUD INDIAN BOT?style=flat&logo=github&color=yellow" /> </a>
 </p>
-<p align="center">
-<a href="https://github.com/STONED LEGEND/PROUD INDIAN BOT" alt="GitHub release (latest by date including pre-releases)"> <img src="https://img.shields.io/github/v/release/STONED LEGEND/PROUD INDIAN BOT?include_prereleases?style=flat&logo=github" /> </a>
-<a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
-<a href="https://github.com/STONED LEGEND/PROUD INDIAN BOT" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
-<a href="https://github.com/STONED LEGEND/PROUD INDIAN BOT" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/STONED LEGEND/PROUD INDIAN BOT" /> </a>
-<a href="https://github.com/STONED LEGEND/PROUD INDIAN BOT/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
-</p>
-<p align="center">
-<a href="https://t.me/stonedLegend-ProudIndianBot" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
-<a href="https://github.com/STONED-LEGEND/PROUD-INDIAN-BOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
-<a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
-</p>
-
-------
-## 𝗦𝗧𝗔𝗧𝗨𝗦 𝗢𝗙 𝗜𝗡𝗗𝗜𝗔𝗡-𝗕𝗢𝗧
-
-<p align="left">
-    <a href="https://github.com/STONED-LEGEND/PROUD-INDIAN-BOT/network/members"><img src="https://img.shields.io/github/forks/STONED-LEGEND/PROUD-INDIAN-BOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/STONEDLEGEND/PROUDINDIANBOT/stargazers"><img src="https://img.shields.io/github/stars/STONEDLEGEND/PROUDINDIANBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/STONEDDLEGEND/PROUDINDIANBOT"></a><p align="left"><a href="https://github.com/STONEDLEGEND/PROUDINDIANBOT?"></a>
-
-------
-## 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightblue)](https://t.me/PROUD_INDIAN_BOT)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightblue)](https://t.me/INDIANBOTSUPPORT)
 
 
 ## 𝗗𝗘𝗣𝗟𝗢𝗬 𝗣𝗥𝗢𝗨𝗗 𝗜𝗡𝗗𝗜𝗔𝗡 𝗕𝗢𝗧 🚀
