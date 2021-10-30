@@ -1,6 +1,8 @@
 <h1 align="center">
-<b> 『"https://telegra.ph/file/9233581b99b80fe5a1c00.jpg" 』 </b>
+<b> 『"⚡🇮🇳⚡ 𝕻𝖗𝖔𝖚𝖉 𝕴𝖓𝖉𝖎𝖆𝖓 𝕭𝖔𝖙 ⚡🇮🇳⚡" 』 </b>
 </h1>
+
+[![PROUD-INDIAN-BOT](https://telegra.ph/file/8c3296520865d74522cd0.jpg)] (https://github.com/StonedLegend/PROUD-INDIAN-BOT.git)
 
 
 <h3 align="center">
@@ -8,7 +10,6 @@
 </h3>
 
 ------
-[![PROUD-INDIAN-BOT](https://telegra.ph/file/8c3296520865d74522cd0.jpg)] (https://github.com/StonedLegend/PROUD-INDIAN-BOT.git)
 
 
 
