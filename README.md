@@ -8,6 +8,7 @@
 </h3>
 
 ------
+[![PROUD-INDIAN-BOT](https://telegra.ph/file/8c3296520865d74522cd0.jpg)] (https://github.com/StonedLegend/PROUD-INDIAN-BOT.git)
 
 
 
