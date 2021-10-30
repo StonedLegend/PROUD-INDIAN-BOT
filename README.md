@@ -16,11 +16,11 @@
 
 ------
 <p align="center">
-<a href="https://github.com/STONEDLEGEND/PROUDINDIANBOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/STONEDLEGEND/PROUDINDIANBOT?style=flat&logo=github&color=success" /> </a>
-<a href="https://github.com/STONEDLEGEND/PROUDINDIANBOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/STONEDLEGEND/PROUD-INDIAN-BOT?style=flat&logo=github" /> </a>
-<a href="https://github.com/STONEDLEGEND/PROUDINDIANBOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/STONED-LEGEND-AGORA/PROUD-INDIAN-BOT?label=Forks&logo=github" /> </a>
-<a href="https://github.com/STONED-LEGEND/PROUD-INDIAN-BOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/STONED-LEGEND/PROUD-INDIAN-BOT?color=success" /> </a>
-<a href="https://github.com/STONED LEGEND/PROUD-INDIAN-BOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/STONED LEGEND/PROUD INDIAN BOT?style=flat&logo=github&color=yellow" /> </a>
+<a href="https://github.com/StonedLegend/PROUD-INDIAN-BOT.git" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/STONEDLEGEND/PROUDINDIANBOT?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/StonedLegend/PROUD-INDIAN-BOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/STONEDLEGEND/PROUD-INDIAN-BOT?style=flat&logo=github" /> </a>
+<a href="https://github.com/StonedLegend/PROUD-INDIAN-BOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/STONED-LEGEND-AGORA/PROUD-INDIAN-BOT?label=Forks&logo=github" /> </a>
+<a href="https://github.com/StonedLegend/PROUD-INDIAN-BOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/StonedLegend/PROUD-INDIAN-BOT?color=success" /> </a>
+<a href="https://github.com/StonedLegend/PROUD-INDIAN-BOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/StonedLegend/PROUD INDIAN BOT?style=flat&logo=github&color=yellow" /> </a>
 </p>
 
 
@@ -32,7 +32,7 @@
 ------
 ##𝗦𝗨𝗕𝗦𝗖𝗥𝗜𝗕𝗘 𝗢𝗡 𝗬𝗢𝗨𝗧𝗨𝗕𝗘 𝗙𝗜𝗥𝗦𝗧 📺
 - [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvp8PY25PTRhFDZjLv3sVfg?style=social)](https://youtube.com/channel/UC-4mVE6HjhtYygaf2l5DHvA)
-      [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvp8PY25PTRhFDZjLv3sVfg?style=social)](https://youtube.com/channel/UC6mPMgj0gKjaGzL_55hFF-A)
+- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvp8PY25PTRhFDZjLv3sVfg?style=social)](https://youtube.com/channel/UC6mPMgj0gKjaGzL_55hFF-A)
 - [![YouTube Video Views](https://img.shields.io/youtube/views/9dQgdUJfk_k?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/9dQgdUJfk_k)
 
 ------
@@ -40,7 +40,7 @@
 - Get All The Necessary Variables And Deploy To Heroku.
 - Some Mandatory Variables Are listed [Here](#Variables).
 
-<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2STONEDLEGEND%2FPROUDINDIANBOT&template=https%3A%2F%2Fgithub.com%2FSTONEDLEGEND%2FPROUDINDIANBOT" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
+<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2StonedLegend%2FPROUD-INDIAN-BOT&template=https%3A%2F%2Fgithub.com%2FStonedLegend%2FPROUD-INDIAN-BOT" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
 </a>
 
 ------
@@ -74,7 +74,7 @@
 
 - `APP_ID`  =  Get this value from my.telegram.org
 - `API_HASH`  =  Get this value from my.telegram.org
-- `LEGEND_STRING`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
+- `STONEDLEGEND_STRING`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
 - `LOGGER_ID`  =  Make A Channel And Get it's ID.
 - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
 - `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
@@ -100,7 +100,7 @@
     - Click On Generate String
     - Then Click On Green Run Button.
     - Wait for a while then fill the details.
-    - String will be saved in your Saved Message.
+    - Proud Indian Bot String will be saved in your Saved Message.
 
 
 ### 𝗧𝗘𝗥𝗠𝗜𝗡𝗔𝗟
@@ -112,13 +112,13 @@
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
 - Note that Termux Doesn't show passwords when filled. Just paste your password and hit enter.
-- Your LegendBot Session Will be saved in your Telegram Saved Message.
+- Your Proud Indian Bot Session Will be saved in your Telegram Saved Message.
 
 
 ------
 ## 𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥
 - We won't be responsible for any kind of ban due to this bot.
-- HellBot was made for fun purpose and to make group management easier.
+- Proud Indian Bot was made for fun purpose and to make group management easier.
 - It's your concern if you spam and gets your account banned.
 - Also, Forks won't be entertained.
 - If you fork this repo and edit plugins, it's your concern for further updates.
@@ -127,7 +127,7 @@
 
 ------
 
-<h2 align="center"> <a href="https://github.com/STONEDLEGEND/PROUD-INDIAN-BOT">🇮🇳 𝕻𝖗𝖔𝖚𝖉 𝕴𝖓𝖉𝖎𝖆𝖓 𝕭𝖔𝖙 🇮🇳</a></h2>
+<h2 align="center"> <a href="https://github.com/StonedLegend/PROUD-INDIAN-BOT">🇮🇳 𝕻𝖗𝖔𝖚𝖉 𝕴𝖓𝖉𝖎𝖆𝖓 𝕭𝖔𝖙 🇮🇳</a></h2>
 
 ------------
 # 𝗗𝗢 𝗬𝗢𝗨 𝗙𝗔𝗖𝗘 𝗔𝗡𝗬 𝗣𝗥𝗢𝗕𝗟𝗘𝗠 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗘 𝗧𝗛𝗥𝗢𝗨𝗚𝗛 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 
@@ -146,9 +146,9 @@
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-LEGEND-OS
+StonedLegend
 
-Poject [LEGENDBOT](https://github.com/LEGEND-OS/LEGENDBOT) is free software: you can redistribute it and/or modify
+Poject [PROUD-INDIAN-BOT](https://github.com/StonedLegend/PROUD-INDIAN-BOT) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
