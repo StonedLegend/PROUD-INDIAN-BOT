@@ -1,6 +1,6 @@
 {
-  "name": "Lêɠêɳ̃dẞø†",
-  "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ †hê~Lêɠêɳ̃dẞøY Made with Love And By Python Language With Hardwork... ❤ ",
+  "name": "𝕻𝖗𝖔𝖚𝖉 𝕴𝖓𝖉𝖎𝖆𝖓 𝕭𝖔𝖙",
+  "description": "τнє ϐєѕτ υѕєя𝕭𝖔𝖙 𝕸𝖆𝖉𝖊 𝕭𝖞 𝕾𝖙𝖔𝖓𝖊𝖉 𝕷𝖊𝖌𝖊𝖓𝖉 𝕸𝖆𝖉𝖊 𝖂𝖎𝖙𝖍 𝕷𝖔𝖛𝖊 𝕬𝖓𝖉 𝕻𝖞𝖙𝖍𝖔𝖓 𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊 𝕬𝖓𝖉 𝕽𝖊𝖘𝖕𝖊𝖈𝖙 𝕵𝖆𝖎 𝖍𝖎𝖓𝖉⚡🇮🇳⚡...",
   "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
     "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGENDS-OP/LEGENDBOT/",
-  "website": "https://github.com/LEGENDS-OP/LEGENDBOT/",
-  "success_url": "https://t.me/Legend_Userbot",
+  "repository": "https://github.com/StonedLegend/PROUD-INDIAN-BOT/",
+  "website": "https://github.com/StonedLegend/PROUD-INDIAN-BOT/",
+  "success_url": "https://t.me/AGORA_SWAMY",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -24,12 +24,12 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "†hê~Lêɠêɳ̃dẞøY",
+      "value": "𝕻𝖗𝖔𝖚𝖉 𝕴𝖓𝖉𝖎𝖆𝖓 𝕭𝖔𝖙",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "Lêɠêɳ̃dẞø† 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 🇮🇳",
+      "value": "𝕻𝖗𝖔𝖚𝖉 𝕴𝖓𝖉𝖎𝖆𝖓 𝕭𝖔𝖙 𝖅𝖎𝖓𝖉𝖆 𝕳𝖆𝖎 ⚡🇮🇳⚡",
       "required": false
     },
     "ABUSE": {
@@ -39,12 +39,12 @@
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@Legend_Userbot",
+      "value": "@PROUD_INDIAN_BOT",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Group Username",
-      "value": "@Its_LegendBot",
+      "value": "@INDIANBOTSUPPORT",
       "required": false
     },
     "BOY_OR_GIRL": {
@@ -69,7 +69,7 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "𝙸 𝚊𝚖 𝙻𝚎𝚐𝚎𝚗𝚍 ϐєϲαυѕє ι αм υѕєя οƒ ✞︎t͛ẞ̸ 𝖑𝖊ɠêɳ̃dẞø✞︎ @Legend_Userbot",
+      "value": "𝑰 𝒂𝒎 𝑰𝒏𝒅𝒊𝒂𝒏 𝑺𝒐 𝑰 𝒂𝒎 𝒖𝒔𝒊𝒏𝒈 𝑷𝑹𝑶𝑼𝑫 𝑰𝑵𝑫𝑰𝑨𝑵 𝑩𝑶𝑻 𝒂𝒏𝒅 𝑰 𝑺𝑨𝒀 𝑷𝑹𝑶𝑼𝑫𝑳𝒀 𝑱𝑨𝑰 𝑯𝑰𝑵𝑫",
       "required": true
     },
     "PM_PIC": {
@@ -79,7 +79,7 @@
     },
     "PM_MSG": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "нєℓℓο ѕιя / мιѕѕ,\nρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ 𝖑𝖊ɠêɳ̃dẞø✞︎ 🇮🇳.\nℑ ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,\nτнαиκγου!",
+      "value": "𝐍𝐀𝐌𝐀𝐒𝐓𝐀𝐄 𝐌𝐈𝐓𝐑𝐎, 𝐌𝐀𝐈 𝐏𝐑𝐎𝐔𝐃 𝐈𝐍𝐃𝐈𝐀𝐍 𝐁𝐎𝐓 𝐇𝐔 𝐌𝐀𝐈 𝐌𝐄𝐑𝐀 𝐌𝐀𝐒𝐓𝐄𝐑 𝐊𝐀 𝐒𝐄𝐕𝐀𝐊 𝐇𝐔, 𝐌𝐄𝐑𝐀 𝐌𝐀𝐒𝐓𝐄𝐑 𝐀𝐁𝐈 𝐃𝐔𝐒𝐑𝐄 𝐊𝐀𝐀𝐌 𝐏𝐄 𝐕𝐘𝐒𝐓𝐀 𝐇𝐀𝐈. 𝐊𝐑𝐈𝐏𝐈𝐘𝐀 𝐓𝐇𝐎𝐃𝐀 𝐈𝐍𝐓𝐄𝐙𝐀𝐀𝐑 𝐊𝐀𝐑𝐎 , 𝐕𝐀𝐑𝐍𝐀 𝐀𝐀𝐏 𝐓𝐀𝐀𝐓𝐊𝐀𝐋𝐈𝐊 𝐍𝐈𝐒𝐇𝐄𝐃 𝐇𝐎𝐉𝐀𝐘𝐄𝐍𝐆𝐄 . 𝐃𝐇𝐀𝐍𝐘𝐀𝐖𝐀𝐃 #𝐉𝐀𝐈_𝐇𝐈𝐍𝐃 @𝐏𝐑𝐎𝐔𝐃-𝐈𝐍𝐃𝐈𝐀𝐍-𝐁𝐎𝐓
       "required": false
     },
     "MAX_FLOOD_IN_PM": {
@@ -168,12 +168,12 @@
     },
     "EMOJI_IN_HELP1": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "⚜",
+      "value": "⚡🇮🇳",
       "required": true
     },
     "EMOJI_IN_HELP2": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "💫",
+      "value": "🇮🇳⚡",
       "required": false
     },
     "PM_DATA": {
