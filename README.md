@@ -2,29 +2,18 @@
 <b> 『🇮🇳 𝕻𝖗𝖔𝖚𝖉 𝕴𝖓𝖉𝖎𝖆𝖓 𝕭𝖔𝖙 🇮🇳』 </b>
 </h1>
 
-<p align="center">
-  <img src="https://telegra.ph/file/492d3f711add14571dd8b.jpg" alt="STONEDLEGEND">
-</p>
-
-<h6 align="center">
-  <b>⚡🇮🇳 𝕴𝖓𝖉𝖎𝖆𝖓'𝖘 𝕻𝖗𝖔𝖚𝖉 𝕴𝖓𝖉𝖎𝖆𝖓 𝕭𝖔𝖙 🇮🇳⚡</b>
-</h6>
 
 <h3 align="center">
   <b>A ɪ ᴀᴍ ᴘʀᴏᴜᴅ ᴛᴏ ʙᴇ ᴀɴ ɪɴᴅɪᴀɴ🇮🇳𝗠𝗔𝗔 𝗧𝗨𝗝𝗛𝗘 𝗦𝗔𝗟𝗔𝗠🇮🇳 ɪ ᴀᴍ ᴘʀᴏᴜᴅ ᴛᴏ ᴜsᴇ ɴᴀᴛɪᴏɴᴀʟɪᴛʏ ʙᴏᴛ🇮🇳𝗣𝗥𝗢𝗨𝗗 𝗜𝗡𝗗𝗜𝗔𝗡 𝗕𝗢𝗧🇮🇳.</b>
 </h3>
 
 ------
-<p align="center">
-<a href="https://github.com/StonedLegend/PROUD-INDIAN-BOT.git" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/STONEDLEGEND/PROUDINDIANBOT?style=flat&logo=github&color=success" /> </a>
-<a href="https://github.com/StonedLegend/PROUD-INDIAN-BOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/STONEDLEGEND/PROUD-INDIAN-BOT?style=flat&logo=github" /> </a>
-<a href="https://github.com/StonedLegend/PROUD-INDIAN-BOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/STONED-LEGEND-AGORA/PROUD-INDIAN-BOT?label=Forks&logo=github" /> </a>
-<a href="https://github.com/StonedLegend/PROUD-INDIAN-BOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/StonedLegend/PROUD-INDIAN-BOT?color=success" /> </a>
-<a href="https://github.com/StonedLegend/PROUD-INDIAN-BOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/StonedLegend/PROUD INDIAN BOT?style=flat&logo=github&color=yellow" /> </a>
-</p>
+
+
 
 
 ## 𝗗𝗘𝗣𝗟𝗢𝗬 𝗣𝗥𝗢𝗨𝗗 𝗜𝗡𝗗𝗜𝗔𝗡 𝗕𝗢𝗧 🚀
+
 - [![Heroku](https://telegra.ph/file/27bb84639280c7c36a0b8.jpg)](#Deploy-To-Heroku)
 
 - [![Locally](#Deploy-Locally)
@@ -48,10 +37,10 @@
 
 - Clone the repo. 
 
-`git clone https://github.com/STONEDLEGEND/PROUDINDIANBOT.git`
+`git clone https://github.com/StonedLegend/PROUD+INDIAN-BOT.git`
 - Open Cloned Folder.
 
-`cd PROUDINDIANBOT`
+`cd PROUD-INDIAN-BOT`
 - Create VirtualEnv.
 
 `virtualenv -p /usr/bin/python3 venv`
@@ -60,11 +49,11 @@
 - Install Requirements.
 
 `pip install -U -r requirements.txt`
-- Generate LEGEND STRING.
+- Generate StonedLegend STRING.
 
-`python LegendString.py`
+`python StonedLegendString.py`
 - Create config.py or rename exampleconfig.py to config.py. Fill All The Required Variables.
-- Finally Start LegendBot By Vps
+- Finally Start Proud-Indian-Bot By Vps
 
 `bash start.sh`
 
@@ -95,7 +84,7 @@
     - Now Run StringSession Given Below:
    
 
-[![String](https://telegra.ph/file/c78f19f933664bc87cf4a.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
+[![String](https://telegra.ph/file/c78f19f933664bc87cf4a.jpg)](https://replit.com/@StonedLegend/PROUD-INDIAN-BOT#main.py) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
@@ -107,7 +96,7 @@
 - Open the terminal.
 - Paste this code.
 
-`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/LEGEND-OS/LEGENDUSERBOT/master/LegendString.py && python3 LegendString.py`
+`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/StonedLegend/PROUD-INDIAN-BOT/master/StonedLegendString.py && python3 StonedLegendString.py`
 - Fill API ID, API HASH, Phone number (with country code).
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
