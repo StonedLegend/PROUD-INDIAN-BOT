@@ -15,13 +15,26 @@
   <a href="https://github.com/StonedLegend/PROUD-INDIAN-BOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/StonedLegend/PROUD-INDIAN-BOT?label=Forks&logo=github" /> </a>
 <a href="https://github.com/StonedLegend/PROUD-INDIAN-BOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/StonedLegend/PROUD-INDIAN-BOT?color=success" /> </a>  
 <a href="https://github.com/StonedLegend/PROUD-INDIAN-BOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/StonedLegend/PROUD-INDIAN-BOT?style=flat&logo=github&color=yellow" /> </a>
+<p align="center">
+<a href="https://github.com/StonedLegend/PROUD-INDIAN-BOT" alt="GitHub release (latest by date including pre-releases)"> <img src="https://img.shields.io/github/v/release/StonedLegend/PROUD-INDIAN-BOT?include_prereleases?style=flat&logo=github" /> </a>
+<a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
+<a href="https://github.com/StonedLegend/PROUD-INDIAN-BOT" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
+<a href="https://github.com/StonedLegend/PROUD-INDIAN-BOT" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/StonedLegend/PROUD-INDIAN-BOT" /> </a>
+<a href="https://github.com/StonedLegend/PROUD-INDIAN-BOT/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
 </p>  
+<p align="center">
+<a href="https://t.me/proud_indian_bot" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://github.com/StonedLegend/PROUD-INDIAN-BOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
+<a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
+</p>
+## ⚡🇮🇳⚡ 𝕻𝖗𝖔𝖚𝖉 𝕴𝖓𝖉𝖎𝖆𝖓 𝕭𝖔𝖙 ⚡🇮🇳⚡
+## ⚡🇮🇳⚡𝗗𝗘𝗣𝗟𝗢𝗬 𝗣𝗥𝗢𝗨𝗗 𝗜𝗡𝗗𝗜𝗔𝗡 𝗕𝗢𝗧 𝗧𝗢 𝗛𝗘𝗥𝗢𝗞𝗨⚡🇮🇳⚡ 🚀
 ------
 
 
 
 
-## ⚡🇮🇳⚡𝗗𝗘𝗣𝗟𝗢𝗬 𝗣𝗥𝗢𝗨𝗗 𝗜𝗡𝗗𝗜𝗔𝗡 𝗕𝗢𝗧⚡🇮🇳⚡ 🚀
+
 
 - [![Heroku](https://telegra.ph/file/27bb84639280c7c36a0b8.jpg)](#Deploy-To-Heroku)
 
