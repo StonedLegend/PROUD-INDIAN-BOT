@@ -1,5 +1,5 @@
 {
-  "name": "proud-indian-bot",
+  "name": "Stonedlegend-userbot",
   "description": "𝕿𝖍𝖊 𝕭𝖊𝖘𝖙 𝖀𝖘𝖊𝖗𝕭𝖔𝖙 𝕸𝖆𝖉𝖊 𝕭𝖞 𝕾𝖙𝖔𝖓𝖊𝖉 𝕷𝖊𝖌𝖊𝖓𝖉 𝕸𝖆𝖉𝖊 𝖂𝖎𝖙𝖍 𝕷𝖔𝖛𝖊 𝕬𝖓𝖉 𝕻𝖞𝖙𝖍𝖔𝖓 𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊 𝕬𝖓𝖉 𝕽𝖊𝖘𝖕𝖊𝖈𝖙 𝕵𝖆𝖎 𝖍𝖎𝖓𝖉⚡🇮🇳⚡...",
   "logo": "https://telegra.ph/file/9233581b99b80fe5a1c00.jpg",
     "keywords": [
@@ -20,17 +20,17 @@
     "TMP_DOWNLOAD_DIRECTORY": {
       "description": "Where downloaded files will go.",
       "value": "./userbot/DOWNLOADS/",
-      "required": true
+      "required":true
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is LEGEND User",
       "value": "𝕻𝖗𝖔𝖚𝖉 𝕴𝖓𝖉𝖎𝖆𝖓 𝕭𝖔𝖙",
-      "required": true
+      "required":true
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
       "value": "𝕻𝖗𝖔𝖚𝖉 𝕴𝖓𝖉𝖎𝖆𝖓 𝕭𝖔𝖙 𝖅𝖎𝖓𝖉𝖆 𝕳𝖆𝖎 ⚡🇮🇳⚡",
-      "required": true
+      "required":false
     },
     "ABUSE": {
       "description": "ON or OFF",
@@ -40,37 +40,37 @@
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
       "value": "@PROUD_INDIAN_BOT",
-      "required": true
+      "required":false
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Group Username",
       "value": "@INDIANBOTSUPPORT",
-      "required": true
+      "required":false
     },
     "BOY_OR_GIRL": {
       "description": "Set If U are Boy Or Girl",
       "value": "Boy",
-      "required": false
+      "required":false
     },
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .bot command.",
       "value": "",
-      "required": false
+      "required":false
     },
     "OP_PIC": {
       "description": "Put here any telegraph media link for OP pic in .op command.",
       "value": "",
-      "required": false
+      "required":false
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive Or .legend command.",
       "value": "",
-      "required": false
+      "required":false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
       "value": "𝑰 𝒂𝒎 𝑰𝒏𝒅𝒊𝒂𝒏 𝑺𝒐 𝑰 𝒂𝒎 𝒖𝒔𝒊𝒏𝒈 𝑷𝑹𝑶𝑼𝑫 𝑰𝑵𝑫𝑰𝑨𝑵 𝑩𝑶𝑻 𝒂𝒏𝒅 𝑰 𝑺𝑨𝒀 𝑷𝑹𝑶𝑼𝑫𝑳𝒀 𝑱𝑨𝑰 𝑯𝑰𝑵𝑫",
-      "required": true
+      "required":flase
     },
     "PM_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
@@ -190,20 +190,19 @@
       }
     }
   ],
-  "buildpacks": [
+
     {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+
+    ""
   },{
-    "url":"https://github.com/amivin/aria2-heroku.git"
+    "l"
   },{
-    "url":"https://github.com/heroku/heroku-buildpack-google-chrome"
+
   },{
-     "url": "https://github.com/heroku/heroku-buildpack-apt.git"
+    ""
   },{
-    "url":"https://github.com/heroku/heroku-buildpack-chromedriver"
-  },{
-    "url": "https://github.com/opendoor-labs/heroku-buildpack-p7zip"
-  },{
-    "url": "heroku/python"
-  }]
-}
+
+
+
+
+
