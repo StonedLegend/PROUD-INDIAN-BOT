@@ -77,9 +77,8 @@
       "value": "",
       "required": false
     },
-    "PM_MSG": {
+    "PM_MSG": { " 𝕳Hi friends i am PROUD-INDIAN-BOT Advanced Assistant of Mr Stoned 
       "description": "Enter Your custom pm permit msg.",
-      "value": "namastae mitro mai proud indian bot hu mera master ka priya sevak, mera master abi dusre kaam pe vyast hai kripiya thoda intezaar karo , var aap taatkalik nished hojayenge dhanyawaad JAI HIND PROUD-INDIAN-BOT
       "required": true
     },
     "MAX_FLOOD_IN_PM": {
