@@ -13,7 +13,9 @@
 <a href="https://github.com/StonedLegend/PROUD-INDIAN-BOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/StonedLegend/PROUD-INDIAN-BOT?style=flat&logo=github&color=success" /> </a>
   <a href="https://github.com/StonedLegend/PROUD-INDIAN-BOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/StonedLegend/PROUD-INDIAN-BOT?style=flat&logo=github" /> </a>
   <a href="https://github.com/StonedLegend/PROUD-INDIAN-BOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/StonedLegend/PROUD-INDIAN-BOT?label=Forks&logo=github" /> </a>
-  
+<a href="https://github.com/StonedLegend/PROUD-INDIAN-BOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/StonedLegend/PROUD-INDIAN-BOT?color=success" /> </a>  
+<a href="https://github.com/StonedLegend/PROUD-INDIAN-BOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/StonedLegend/PROUD-INDIAN-BOT?style=flat&logo=github&color=yellow" /> </a>
+</p>  
 ------
 
 
