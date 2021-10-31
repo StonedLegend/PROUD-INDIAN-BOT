@@ -1,9 +1,13 @@
-FROM teamlegend/Legendbot:latest
+#Repo Clonning ⚡🇮🇳⚡
+RUN git clone https://github.com/StonedLegend/PROUDINDIANBOT.git /root/userbot
 
-RUN git clone https://github.com/StonedLegend/PROUD-INDIAN-BOT.git ./PROUDINDIANBOT
-RUN pip install --upgrade pip
-RUN pip3 install -r ./PROUDINDIANBOT/requirements.txt
+#working directory 
+WORKDIR /root/userbot
 
-WORKDIR ./PROUDINDIANBOT
+# Install requirements
+RUN pip3 install -U -r requirements.txt
 
-CMD ["python3", "-m", "userbot"]
+ENV PATH="/home/userbot/bin:$PATH"
+
+CMD ["python3","-m","userbot"]
+© 2021 
