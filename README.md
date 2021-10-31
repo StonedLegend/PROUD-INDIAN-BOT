@@ -9,7 +9,8 @@
   <b>ɪ ᴀᴍ ᴘʀᴏᴜᴅ ᴛᴏ ʙᴇ ᴀɴ ɪɴᴅɪᴀɴ🇮🇳𝗠𝗔𝗔 𝗧𝗨𝗝𝗛𝗘 𝗦𝗔𝗟𝗔𝗠🇮🇳 ɪ ᴀᴍ ᴘʀᴏᴜᴅ ᴛᴏ ᴜsᴇ ɴᴀᴛɪᴏɴᴀʟɪᴛʏ ʙᴏᴛ
     ⚡🇮🇳⚡𝗣𝗥𝗢𝗨𝗗 𝗜𝗡𝗗𝗜𝗔𝗡 𝗕𝗢𝗧⚡🇮🇳⚡.</b>
 </h3>
-
+<p align="center">
+<a href="https://github.com/StonedLegend/PROUDINDIANBOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/StonedLegend/PROUDINDIANBOT?style=flat&logo=github&color=success" /> </a>
 ------
 
 
