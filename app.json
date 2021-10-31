@@ -70,7 +70,7 @@
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
       "value": "𝑰 𝒂𝒎 𝑰𝒏𝒅𝒊𝒂𝒏 𝑺𝒐 𝑰 𝒂𝒎 𝒖𝒔𝒊𝒏𝒈 𝑷𝑹𝑶𝑼𝑫 𝑰𝑵𝑫𝑰𝑨𝑵 𝑩𝑶𝑻 𝒂𝒏𝒅 𝑰 𝑺𝑨𝒀 𝑷𝑹𝑶𝑼𝑫𝑳𝒀 𝑱𝑨𝑰 𝑯𝑰𝑵𝑫",
-      "required":flase
+      "required":false
     },
     "PM_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
@@ -79,7 +79,7 @@
     },
     "PM_MSG": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "𝐍𝐀𝐌𝐀𝐒𝐓𝐀𝐄 𝐌𝐈𝐓𝐑𝐎 𝐌𝐀𝐈 𝐏𝐑𝐎𝐔𝐃 𝐈𝐍𝐃𝐈𝐀𝐍 𝐁𝐎𝐓 𝐇𝐔 𝐌𝐀𝐈 𝐌𝐄𝐑𝐀 𝐌𝐀𝐒𝐓𝐄𝐑 𝐊𝐀 𝐒𝐄𝐕𝐀𝐊 𝐇𝐔 𝐌𝐄𝐑𝐀 𝐌𝐀𝐒𝐓𝐄𝐑 𝐀𝐁𝐈 𝐃𝐔𝐒𝐑𝐄 𝐊𝐀𝐀𝐌 𝐏𝐄 𝐕𝐘𝐒𝐓𝐀 𝐇𝐀𝐈 𝐊𝐑𝐈𝐏𝐈𝐘𝐀 𝐓𝐇𝐎𝐃𝐀 𝐈𝐍𝐓𝐄𝐙𝐀𝐀𝐑 𝐊𝐀𝐑𝐎 𝐕𝐀𝐑𝐍𝐀 𝐀𝐀𝐏 𝐓𝐀𝐀𝐓𝐊𝐀𝐋𝐈𝐊 𝐍𝐈𝐒𝐇𝐄𝐃 𝐇𝐎𝐉𝐀𝐘𝐄𝐍𝐆𝐄  𝐃𝐇𝐀𝐍𝐘𝐀𝐖𝐀𝐃 𝐉𝐀𝐈_𝐇𝐈𝐍𝐃 𝐏𝐑𝐎𝐔𝐃-𝐈𝐍𝐃𝐈𝐀𝐍-𝐁𝐎𝐓
+      "value": "namastae mitro mai proud indian bot hu mera master ka priya sevak, mera master abi dusre kaam pe vyast hai kripiya thoda intezaar karo , var aap taatkalik nished hojayenge dhanyawaad JAI HIND PROUD-INDIAN-BOT
       "required": true
     },
     "MAX_FLOOD_IN_PM": {
@@ -135,8 +135,8 @@
     },
     "BOT_TOKEN": {
       "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
-      "value": ""
-    },
+      "value": true
+    
     "CHROME_BIN": {
       "description": "For Carbon.py. Leave as it is. ",
       "value": "/app/.apt/usr/bin/google-chrome",
