@@ -77,7 +77,7 @@
       "value": "",
       "required": false
     },
-    "PM_MSG": { " 𝕳Hi friends i am PROUD-INDIAN-BOT Advanced Assistant of Mr Stoned 
+    "PM_MSG": { "Hi friends i am PROUD-INDIAN-BOT Advanced Assistant of Mr Stoned.",
       "description": "Enter Your custom pm permit msg.",
       "required": true
     },
