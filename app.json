@@ -1,6 +1,9 @@
+
 {
-  "name": "Stonedlegend-userbot",
-  "description": "𝕿𝖍𝖊 𝕭𝖊𝖘𝖙 𝖀𝖘𝖊𝖗𝕭𝖔𝖙 𝕸𝖆𝖉𝖊 𝕭𝖞 𝕾𝖙𝖔𝖓𝖊𝖉 𝕷𝖊𝖌𝖊𝖓𝖉 𝕸𝖆𝖉𝖊 𝖂𝖎𝖙𝖍 𝕷𝖔𝖛𝖊 𝕬𝖓𝖉 𝕻𝖞𝖙𝖍𝖔𝖓 𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊 𝕬𝖓𝖉 𝕽𝖊𝖘𝖕𝖊𝖈𝖙 𝕵𝖆𝖎 𝖍𝖎𝖓𝖉⚡🇮🇳⚡...",
+  "name": "PROUD-INDIAN-BOT",
+  "description 𝕿𝖍𝖊 𝖇𝖊𝖘𝖙 𝖇𝖔𝖙 𝖒𝖆𝖉𝖊 𝖇𝖞 𝕾𝖙𝖔𝖓𝖊𝖉 𝕷𝖊𝖌𝖊𝖓𝖉 𝖇𝖔𝖞 𝕬𝖌𝖔𝖗𝖆 
+𝕸𝖆𝖉𝖊 𝖜𝖎𝖙𝖍 𝖑𝖔𝖛𝖊 𝖆𝖓𝖉 𝖗𝖊𝖘𝖕𝖊𝖈𝖙
+𝕵𝖆𝖎 𝖍𝖎𝖓𝖉❤ ",
   "logo": "https://telegra.ph/file/9233581b99b80fe5a1c00.jpg",
     "keywords": [
     "telegram",
@@ -9,9 +12,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/StonedLegend/PROUD-INDIAN-BOT.git/",
-  "website": "https://github.com/StonedLegend/PROUD-INDIAN-BOT.git/",
-  "success_url": "https://t.me/AGORA_SWAMY",
+  "repository": "https://github.com/StonedLegend/PROUD-INDIAN-BOT/",
+  "website": "https://github.com/StonedLegend/PROUD-INDIAN-BOT/",
+  "success_url": "https://t.me/Legend_Userbot",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -20,66 +23,77 @@
     "TMP_DOWNLOAD_DIRECTORY": {
       "description": "Where downloaded files will go.",
       "value": "./userbot/DOWNLOADS/",
-      "required":true
+      "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "𝕻𝖗𝖔𝖚𝖉 𝕴𝖓𝖉𝖎𝖆𝖓 𝕭𝖔𝖙",
-      "required":true
+      "description": "Fill your Full name. By default it is STONEDLEGEND User",
+      "value": "𝕾𝖙𝖔𝖓𝖊𝖉𝕷𝖊𝖌𝖊𝖓𝖉𝕬𝖌𝖔𝖗𝖆",
+      "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "𝕻𝖗𝖔𝖚𝖉 𝕴𝖓𝖉𝖎𝖆𝖓 𝕭𝖔𝖙 𝖅𝖎𝖓𝖉𝖆 𝕳𝖆𝖎 ⚡🇮🇳⚡",
-      "required":false
+      "value": "𝕹𝖆𝖙𝖎𝖔𝖓𝖆𝖑𝖎𝖙𝖞 𝖇𝖔𝖙 𝕻𝖗𝖔𝖚𝖉 𝕴𝖓𝖉𝖎𝖆𝖓 𝕭𝖔𝖙 𝖅𝖎𝖓𝖉𝖆 𝖍𝖆𝖎 🇮🇳",
+      "required": false
     },
     "ABUSE": {
       "description": "ON or OFF",
       "value": "ON",
-      "required" :false
+      "required" : true
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@PROUD_INDIAN_BOT",
-      "required":false
+      "value": "@Proud_indian_bot",
+      "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Group Username",
-      "value": "@INDIANBOTSUPPORT",
-      "required":false
+      "value": "@indianbotsupport",
+      "required": false
+    },
+    "EXTRA_PLUGIN": {
+      "description": "ON ya OFF",
+      "value": "ON",
+      "required": true
+    },
+    "ASSISTANT": {
+      "description": "ON or OFF",
+      "value": "ON",
+      "required": true
     },
     "BOY_OR_GIRL": {
       "description": "Set If U are Boy Or Girl",
       "value": "Boy",
-      "required":false
+      "required": false
     },
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .bot command.",
       "value": "",
-      "required":false
+      "required": false
     },
     "OP_PIC": {
       "description": "Put here any telegraph media link for OP pic in .op command.",
       "value": "",
-      "required":false
+      "required": false
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive Or .legend command.",
       "value": "",
-      "required":false
+      "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "𝑰 𝒂𝒎 𝑰𝒏𝒅𝒊𝒂𝒏 𝑺𝒐 𝑰 𝒂𝒎 𝒖𝒔𝒊𝒏𝒈 𝑷𝑹𝑶𝑼𝑫 𝑰𝑵𝑫𝑰𝑨𝑵 𝑩𝑶𝑻 𝒂𝒏𝒅 𝑰 𝑺𝑨𝒀 𝑷𝑹𝑶𝑼𝑫𝑳𝒀 𝑱𝑨𝑰 𝑯𝑰𝑵𝑫",
-      "required":false
+      "value ", " I AM PROUD TO BE INDIAN SO I USE PROUD-INDIAN-BOT
+      "required": true
     },
     "PM_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
       "value": "",
       "required": false
     },
-    "PM_MSG": { "Hi friends i am PROUD-INDIAN-BOT Advanced Assistant of Mr Stoned.",
+    "PM_MSG": {
       "description": "Enter Your custom pm permit msg.",
-      "required": true
+      "value": "нєℓℓο ѕιя / мιѕѕ,\nρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ 𝖕𝖗𝖔𝖚𝖉-𝖎𝖓𝖉𝖎𝖆𝖓-𝖇𝖔𝖙 🇮🇳.\nℑ ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,\nτнαиκγου!",
+      "required": false
     },
     "MAX_FLOOD_IN_PM": {
       "description": "Now U Can Set Custom Flood In DM / PM by default it is 5",
@@ -93,7 +107,7 @@
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Putting Others Value may result In Account Ban.",
-      "value": " "
+      "value": ""
     },
     "SUDO_USERS": {
       "description": "Enter your friends user id to to give him bot full access",
@@ -107,7 +121,7 @@
     },
     "COMMAND_HAND_LER": {
       "description": "U can Change Ur command Handler By Default it is (.)",
-      "value": "+",
+      "value": ".",
       "required": true
       },
     "API_HASH": {
@@ -118,7 +132,7 @@
       "description": "Copy Group Id And paste here To Get Plugin Channel ID copy and paste here",
       "value": ""
     }, 
-    "LEGEND_STRING": {
+    "STONEDLEGEND_STRING": {
       "description": "Get this value by running https://repl.it/@KrishnaJaiswal1/LEGENDBOT#main.py ",
       "value": ""
     },
@@ -134,8 +148,8 @@
     },
     "BOT_TOKEN": {
       "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
-      "value": true
-    
+      "value": ""
+    },
     "CHROME_BIN": {
       "description": "For Carbon.py. Leave as it is. ",
       "value": "/app/.apt/usr/bin/google-chrome",
@@ -151,29 +165,29 @@
       "value": ""
     },
     "NO_OF_BUTTONS": {
-      "description": " Set The Amount Of Buttons Displayed In legend Command default 7",
+      "description": " Set The Amount Of Buttons Displayed In Stoned Command default 7",
       "value": "7",
       "required": true
     },
     "NO_OF_COLUMNS": {
-      "description": "Set The Amount Of Rows You Want To Displayed In legend Command default 2",
+      "description": "Set The Amount Of Rows You Want To Displayed In Stoned Command default 2",
       "value": "2",
       "required": true
     },
     "PING_PIC": {
       "description": "Put Telegraph Link of any Pic Or Video",
-      "value": "",
+      "value": "https://telegra.ph/file/d2fd7f01f283acb47528b.mp4",
       "required": false
     },
     "EMOJI_IN_HELP1": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "⚡🇮🇳",
+      "value": "⚜",
       "required": true
     },
     "EMOJI_IN_HELP2": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "🇮🇳⚡",
-      "required": true
+      "value": "💫",
+      "required": false
     },
     "PM_DATA": {
       "description": "Type DISABLE if you want to disable pm protection... ",
@@ -189,19 +203,21 @@
       }
     }
   ],
-
+  "buildpacks": [
     {
-
-    ""
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
   },{
-    "l"
+    "url":"https://github.com/amivin/aria2-heroku.git"
   },{
-
+    "url":"https://github.com/heroku/heroku-buildpack-google-chrome"
   },{
-    ""
+     "url": "https://github.com/heroku/heroku-buildpack-apt.git"
   },{
-
-
-
-
-
+    "url":"https://github.com/heroku/heroku-buildpack-chromedriver"
+  },{
+    "url": "https://github.com/opendoor-labs/heroku-buildpack-p7zip"
+  },{
+    "url": "heroku/python"
+  }]
+}
+ 
