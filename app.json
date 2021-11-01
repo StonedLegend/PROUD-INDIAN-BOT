@@ -25,12 +25,12 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is STONEDLEGEND User",
-      "value": "𝕾𝖙𝖔𝖓𝖊𝖉𝕷𝖊𝖌𝖊𝖓𝖉𝕬𝖌𝖔𝖗𝖆",
+      "value": "StonedLegendAgora",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "𝕹𝖆𝖙𝖎𝖔𝖓𝖆𝖑𝖎𝖙𝖞 𝖇𝖔𝖙 𝕻𝖗𝖔𝖚𝖉 𝕴𝖓𝖉𝖎𝖆𝖓 𝕭𝖔𝖙 𝖅𝖎𝖓𝖉𝖆 𝖍𝖆𝖎 🇮🇳",
+      "value": "NATIONALITY BOT MADE BY PROUD INDIANBOY AGORA🇮🇳",
       "required": false
     },
     "ABUSE": {
@@ -80,7 +80,7 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value ", " I AM PROUD TO BE INDIAN SO I USE PROUD-INDIAN-BOT
+      "value ", "I AM PROUD TO BE INDIAN SO I USE PROUD-INDIAN-BOT"
       "required": true
     },
     "PM_PIC": {
@@ -90,7 +90,7 @@
     },
     "PM_MSG": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "нєℓℓο ѕιя / мιѕѕ,\nρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ 𝖕𝖗𝖔𝖚𝖉-𝖎𝖓𝖉𝖎𝖆𝖓-𝖇𝖔𝖙 🇮🇳.\nℑ ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,\nτнαиκγου!",
+      "value": "HELLO SIR/MISS MY MASTER IS BUSY NOW PLEASE DONT SPAM MADE BY PROUD INDIAN BOT STONEDLEGENDAGORA🇮🇳!",
       "required": false
     },
     "MAX_FLOOD_IN_PM": {
