@@ -1,8 +1,8 @@
 
 {
   "name": "PROUD-INDIAN-BOT",
-  "description" :"This is made by StonedLegendAgora",
-  "logo": "https://telegra.ph/file/9233581b99b80fe5a1c00.jpg",
+  "description": "MADE FOR YOU",
+  "logo": "https://telegra.ph/file/8c3296520865d74522cd0.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -12,7 +12,7 @@
   ],
   "repository": "https://github.com/StonedLegend/PROUD-INDIAN-BOT/",
   "website": "https://github.com/StonedLegend/PROUD-INDIAN-BOT/",
-  "success_url": "https://t.me/Legend_Userbot",
+  "success_url": "https://t.me/{}",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -24,73 +24,63 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is STONEDLEGEND User",
-      "value": "StonedLegendAgora",
+      "description": "Fill your Full name. By default it is LEGEND-LX User",
+      "value": "LEGEND-LX",
       "required": false
     },
     "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "NATIONALITY BOT MADE BY PROUD INDIANBOY AGORA🇮🇳",
+      "description": "Set Custom Alive Message When entering .alive Or .op  Command.",
+      "value": "BOT ONLINE",
       "required": false
-    },
-    "ABUSE": {
-      "description": "ON or OFF",
-      "value": "ON",
-      "required" : true
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@Proud_indian_bot",
+      "value": "{}",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Group Username",
-      "value": "@indianbotsupport",
+      "value": "{}",
       "required": false
     },
     "EXTRA_PLUGIN": {
-      "description": "ON ya OFF",
+      "description": "Set ON OR OFF",
       "value": "ON",
       "required": true
     },
     "ASSISTANT": {
-      "description": "ON or OFF",
+      "description": "Set ON OR OFF",
       "value": "ON",
       "required": true
     },
-    "BOY_OR_GIRL": {
-      "description": "Set If U are Boy Or Girl",
-      "value": "Boy",
-      "required": false
-    },
     "AWAKE_PIC": {
-      "description": "Put here any telegraph media link for awake pic in .awake Or .bot command.",
-      "value": "",
-      "required": false
+      "description": "Put here any telegraph media link for awake pic in .awake Or .pybot command.",
+      "value": "https://telegra.ph/file/8c3296520865d74522cd0.jpg",
+      "required": true
     },
-    "OP_PIC": {
-      "description": "Put here any telegraph media link for OP pic in .op command.",
-      "value": "",
-      "required": false
+    "PYTHON_PIC": {
+      "description": "Put here any telegraph media link for PYTHON pic in .op command.",
+      "value": "https://telegra.ph/file/8c3296520865d74522cd0.jpg",
+      "required": true
     },
     "ALIVE_PIC": {
-      "description": "Put here any telegraph media link for alive pic in .alive Or .legend command.",
-      "value": "",
+      "description": "Put here any telegraph media link for alive pic in .pyalive Or .op command.",
+      "value": "https://telegra.ph/file/8c3296520865d74522cd0.jpg",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value ", "I AM PROUD TO BE INDIAN SO I USE PROUD-INDIAN-BOT"
+      "value": "USING OP PROUD-INDIAN-BOT",
       "required": true
     },
     "PM_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "",
-      "required": false
+      "value": "https://telegra.ph/file/8c3296520865d74522cd0.jpg",
+      "required": true
     },
     "PM_MSG": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "HELLO SIR/MISS MY MASTER IS BUSY NOW PLEASE DONT SPAM MADE BY PROUD INDIAN BOT STONEDLEGENDAGORA🇮🇳!",
+      "value": "нєℓℓο ѕιя / мιѕѕ,\nρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ PROUD-INDIAN-BOT 🇮🇳.\nℑ ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,\nτнαиκγου!",
       "required": false
     },
     "MAX_FLOOD_IN_PM": {
@@ -129,9 +119,21 @@
     "PLUGIN_CHANNEL": {
       "description": "Copy Group Id And paste here To Get Plugin Channel ID copy and paste here",
       "value": ""
+    },
+    "PRIVATE_GROUP_BOT_API_ID": {
+      "description": "Create a private group and  add @Missrose_bot then type /id add that value here for save messages",
+      "value": ""
+    },
+    "PRIVATE_GROUP_ID": {
+      "description": "Create a private group add @Missrose_bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
+      "value": ""
+    },
+    "PM_LOGGR_BOT_API_ID": {
+       "description": "for login private messages create a private group and add @missrose_bot and do /id and add that id", 
+       "value": ""
     }, 
     "STONEDLEGEND_STRING": {
-      "description": "Get this value by running https://repl.it/@KrishnaJaiswal1/LEGENDBOT#main.py ",
+      "description": "Get this value by running https://replit.com/@LEGEND-LX/PYTHONBOT-4#main.py ",
       "value": ""
     },
     "HEROKU_API_KEY": {
@@ -163,19 +165,14 @@
       "value": ""
     },
     "NO_OF_BUTTONS": {
-      "description": " Set The Amount Of Buttons Displayed In Stoned Command default 7",
+      "description": " Set The Amount Of Buttons Displayed In legend Command default 7",
       "value": "7",
       "required": true
     },
     "NO_OF_COLUMNS": {
-      "description": "Set The Amount Of Rows You Want To Displayed In Stoned Command default 2",
+      "description": "Set The Amount Of Rows You Want To Displayed In legend Command default 2",
       "value": "2",
       "required": true
-    },
-    "PING_PIC": {
-      "description": "Put Telegraph Link of any Pic Or Video",
-      "value": "https://telegra.ph/file/d2fd7f01f283acb47528b.mp4",
-      "required": false
     },
     "EMOJI_IN_HELP1": {
       "description": "Set The emojies You Want to Add In Help Command!!",
@@ -187,10 +184,15 @@
       "value": "💫",
       "required": false
     },
+    "ALIVE_EMOJI": {
+      "description": "Set The emojies You Want to Add In Help Command!!",
+      "value": "⚡",
+      "required": false
+    },
     "PM_DATA": {
       "description": "Type DISABLE if you want to disable pm protection... ",
       "value": "ENABLE",
-      "required": true
+      "required": false 
     }
   },
   "addons": [
@@ -218,4 +220,4 @@
     "url": "heroku/python"
   }]
 }
- 
+
