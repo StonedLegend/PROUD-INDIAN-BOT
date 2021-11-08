@@ -30,7 +30,7 @@ _set_bot () {
     echo "  ⚜Starting Downloading PROUDINDIANBOT.0Source Code...🇮🇳"
     wget -q $(_get_repolink) -O "$zippath"
     echo "  Unpacking Data thoda ruko tab tak jorse bolo BHARATH MATA KI  ..."
-    StonedLegend PATH=$(zipinfo -1 "$zippath" | grep -v "/.");
+    StonedLegendPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo "Done"
     echo " SABAR KARO PROUDINDIANBOT KE SWACH BHARATH ABIYAN CHAL RAH HAI.."
