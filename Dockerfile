@@ -1,5 +1,5 @@
 #Repo Clonning ⚡🇮🇳⚡
-RUN git clone https://github.com/StonedLegend/PROUDINDIANBOT.git /root/userbot
+RUN git clone https://github.com/Py1000/.git /root/userbot
 
 #working directory 
 WORKDIR /root/userbot
