@@ -186,7 +186,7 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
   <summary> • 💡 CREDITS 💞 • </summary>
   
- <a href="https://t.me/legend_userbot"><img src="https://img.shields.io/badge/𝗟𝗘𝗚𝗘𝗡𝗗_𝗨𝗦𝗘𝗥𝗕𝗢𝗧%20𝗚𝗥𝗢𝗨𝗣-suffron.svg?style=for-the-badge&logo=Telegram"></a>
+ <a href="https://t.me/legend_userbot"><img src="https://img.shields.io/badge/𝗟𝗘𝗚𝗘𝗡𝗗_𝗨𝗦𝗘𝗥𝗕𝗢𝗧%20𝗚𝗥𝗢𝗨𝗣-orange.svg?style=for-the-badge&logo=Telegram"></a>
   
  <a href="https://t.me/@python_userbot_support"><img src="https://img.shields.io/badge/𝗣𝗬𝗧𝗛𝗢𝗡_𝗨𝗦𝗘𝗥𝗕𝗢𝗧%20𝗚𝗥𝗢𝗨𝗣-white.svg?style=for-the-badge&logo=Telegram"></a>
   
