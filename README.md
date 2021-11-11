@@ -185,5 +185,9 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 <details> 
 
   <summary> • 💡 CREDITS 💞 • </summary>
-  
-⚜ [STONEDLEGEND](https://github.com/STONEDLEGEND)
+  
+ [LEGENDBOY - KRISHNA JAISWAL ( @LegendBoy_OP )]
+ [OFFICIAL GROUP OF LEGENDBOT ( @Legend_Userbot )]
+ [PYTHONBOY - PYTHON.PY ( @Its_py )]
+ [OFFICIAL GROUP OF PYTHONBOT ( @Python_Userbot_Support )]
+ [LOGO PARTNER - AGORA DIGITAL MAGICIAN (@Sir_Agora)]
