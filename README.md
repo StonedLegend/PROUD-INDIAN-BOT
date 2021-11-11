@@ -146,10 +146,10 @@
 
 <a href="https://t.me/PROUD_INDIAN_BOT"><img src="https://img.shields.io/badge/𝗦𝗧𝗢𝗡𝗘𝗗-𝗟𝗘𝗚𝗘𝗡𝗗%20𝗚𝗥𝗢𝗨𝗣-blue.svg?style=for-the-badge&logo=Telegram"></a> 
 
-<a href="https://t.me/PROUDINDIANCHANNEL"><img src="https://img.shields.io/badge/𝗠𝗔𝗦𝗧𝗘𝗥%20𝗔𝗚𝗢𝗥𝗔-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/AGORA_SWAMY"><img src="https://img.shields.io/badge/𝗠𝗔𝗦𝗧𝗘𝗥%20𝗔𝗚𝗢𝗥𝗔-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
-[![Contact Me](https://img.shields.io/badge/Telegram-𝗖𝗥𝗘𝗔𝗧𝗢𝗥%20𝗔𝗚𝗢𝗥𝗔-informational)](https://.me/INDIANBOTSUPPORT)
+[![Contact Me](https://img.shields.io/badge/Telegram-𝗖𝗥𝗘𝗔𝗧𝗢𝗥%20-informational)](https://.me/SHAAN_SWAMY)
 
 
 <details> 
