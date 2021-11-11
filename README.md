@@ -186,6 +186,8 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
   <summary> • 💡 CREDITS 💞 • </summary>
   
+  <a href="https://t.me/legend_userbot"><img src="https://img.shields.io/badge/𝗟𝗘𝗚𝗘𝗡𝗗_𝗨𝗦𝗘𝗥𝗕𝗢𝗧%20𝗚𝗥𝗢𝗨𝗣-blue.svg?style=for-the-badge&logo=Telegram"></a>
+  
  [LEGENDBOY - KRISHNA JAISWAL ( @LegendBoy_OP )]
  [OFFICIAL GROUP OF LEGENDBOT ( @Legend_Userbot )]
  [PYTHONBOY - PYTHON.PY ( @Its_py )]
