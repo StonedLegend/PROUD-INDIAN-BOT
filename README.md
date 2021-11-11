@@ -43,6 +43,8 @@
 
 ------
 
+          𝗧𝗘𝗫𝗧 𝗧𝗨𝗧𝗢𝗥𝗜𝗔𝗟 𝗢𝗙 𝗣𝗥𝗢𝗨𝗗 𝗜𝗡𝗗𝗜𝗔𝗡 𝗕𝗢𝗧
+
 1. FIRST CREATE A PRIVATE GROUP AND ADD @MISSROSE_BOT 
 
 2.CREATE A BOT
