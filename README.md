@@ -144,9 +144,9 @@
 ------------
 # ⚡🇮🇳⚡𝗗𝗢 𝗬𝗢𝗨 𝗙𝗔𝗖𝗘 𝗔𝗡𝗬 𝗣𝗥𝗢𝗕𝗟𝗘𝗠 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗘 𝗧𝗛𝗥𝗢𝗨𝗚𝗛 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠⚡🇮🇳⚡ 
 
-<a href="https://t.me/INDIANBOTSUPPORT"><img src="https://img.shields.io/badge/𝗦𝗧𝗢𝗡𝗘𝗗-𝗟𝗘𝗚𝗘𝗡𝗗%20𝗚𝗥𝗢𝗨𝗣-blue.svg?style=for-the-badge&logo=Telegram"></a> 
+<a href="https://t.me/PROUD_INDIAN_BOT"><img src="https://img.shields.io/badge/𝗦𝗧𝗢𝗡𝗘𝗗-𝗟𝗘𝗚𝗘𝗡𝗗%20𝗚𝗥𝗢𝗨𝗣-blue.svg?style=for-the-badge&logo=Telegram"></a> 
 
-<a href="https://t.me/INDIANBOTSUPPORT"><img src="https://img.shields.io/badge/𝗠𝗔𝗦𝗧𝗘𝗥%20𝗔𝗚𝗢𝗥𝗔-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/PROUDINDIANCHANNEL"><img src="https://img.shields.io/badge/𝗠𝗔𝗦𝗧𝗘𝗥%20𝗔𝗚𝗢𝗥𝗔-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
 [![Contact Me](https://img.shields.io/badge/Telegram-𝗖𝗥𝗘𝗔𝗧𝗢𝗥%20𝗔𝗚𝗢𝗥𝗔-informational)](https://.me/INDIANBOTSUPPORT)
