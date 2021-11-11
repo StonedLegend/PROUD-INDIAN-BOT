@@ -36,7 +36,7 @@ _set_bot () {
     echo " SABAR KARO PROUDINDIANBOT KE SWACH BHARATH ABIYAN CHAL RAH HAI.."
     rm -rf "$zippath"
     sleep 5
-    cd $StonedLegend_PATH
+    cd $StonedLegendPATH
     echo "    • Starting 🇮🇳PROUDINDIANBOT🇮🇳•    "
     echo "
     PROUDINDIANBOT
