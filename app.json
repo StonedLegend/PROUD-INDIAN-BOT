@@ -24,8 +24,8 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is LEGEND-LX User",
-      "value": "LEGEND-LX",
+      "description": "Fill your Full name. By default it is PROUD-INDIAN-AGORA User",
+      "value": "PROUD-INDIAN-AGORA",
       "required": false
     },
     "ALIVE_MSG": {
@@ -54,14 +54,10 @@
       "required": true
     },
     "AWAKE_PIC": {
-      "description": "Put here any telegraph media link for awake pic in .awake Or .pybot command.",
+      "description": "Put here any telegraph media link for awake pic in .awake Or .indian command.",
       "value": "https://telegra.ph/file/8c3296520865d74522cd0.jpg",
       "required": true
-    },
-    "PYTHON_PIC": {
-      "description": "Put here any telegraph media link for PYTHON pic in .op command.",
-      "value": "https://telegra.ph/file/8c3296520865d74522cd0.jpg",
-      "required": true
+    
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .pyalive Or .op command.",
@@ -109,7 +105,7 @@
     },
     "COMMAND_HAND_LER": {
       "description": "U can Change Ur command Handler By Default it is (.)",
-      "value": ".",
+      "value": "×",
       "required": true
       },
     "API_HASH": {
