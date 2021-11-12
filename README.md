@@ -255,7 +255,7 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
   <summary> • 💡 CREDITS 💞 • </summary>
   
-   <a href="https://t.me/@yourd4d"><img src="https://img.shields.io/badge/𝗠𝗿•𝗨𝗝𝗝𝗪𝗔𝗟_%20-orange.svg?style=for-the-badge&logo=Telegram"></a>
+   <a href="https://t.me/@yourd4d"><img src="https://img.shields.io/badge/𝗠𝗿•𝗗𝗛𝗨𝗥𝗕𝗔 𝗨𝗝𝗝𝗪𝗔𝗟_%20-orange.svg?style=for-the-badge&logo=Telegram"></a>
   
           
   <a href="https://t.me/@agora_swamy"><img src="https://img.shields.io/badge/𝗠𝗿•𝗦𝗧𝗢𝗡𝗘𝗗𝗟𝗘𝗚𝗘𝗡𝗗%20-white.svg?style=for-the-badge&logo=Telegram"></a>
@@ -263,7 +263,7 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
  <a href="https://t.me/@hacmker"><img src="https://img.shields.io/badge/𝗠𝗿•𝗔𝗡𝗦𝗛𝗨𝗟_%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
   
           
-<a href="https://t.me/@its_py"><img src="https://img.shields.io/badge/𝗠𝗿•𝗝𝗔𝗥𝗩𝗜𝗦_%20-white.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/@its_py"><img src="https://img.shields.io/badge/𝗠𝗿•𝗣𝗬𝗧𝗛𝗢𝗡 𝗝𝗔𝗥𝗩𝗜𝗦_%20-white.svg?style=for-the-badge&logo=Telegram"></a>
   
  <a href="https://t.me/@legendboy_op"><img src="https://img.shields.io/badge/𝗠𝗿•𝗟𝗘𝗚𝗘𝗡𝗗𝗕𝗢𝗬_%20-darkgreen.svg?style=for-the-badge&logo=Telegram"></a>
   
