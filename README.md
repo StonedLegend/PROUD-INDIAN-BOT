@@ -257,12 +257,12 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
   
  <a href="https://t.me/legend_userbot"><img src="https://img.shields.io/badge/𝗟𝗘𝗚𝗘𝗡𝗗_𝗨𝗦𝗘𝗥𝗕𝗢𝗧%20𝗚𝗥𝗢𝗨𝗣-orange.svg?style=for-the-badge&logo=Telegram"></a>
   
- <a href="https://t.me/@python_userbot_support"><img src="https://img.shields.io/badge/𝗣𝗬𝗧𝗛𝗢𝗡_𝗨𝗦𝗘𝗥𝗕𝗢𝗧%20𝗚𝗥𝗢𝗨𝗣-white.svg?style=for-the-badge&logo=Telegram"></a>
-  
+ 
+          
   <a href="https://t.me/@sir_agora"><img src="https://img.shields.io/badge/𝗟𝗢𝗚𝗢 𝗣𝗔𝗥𝗧𝗡𝗘𝗥%20𝗚𝗥𝗢𝗨𝗣-blue.svg?style=for-the-badge&logo=Telegram"></a>
   
   
-<a href="https://t.me/@its_py"><img src="https://img.shields.io/badge/𝗣𝗬𝗧𝗛𝗢𝗡_𝗨𝗦𝗘𝗥𝗕𝗢𝗧%20𝗢𝗪𝗡𝗘𝗥-white.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/@its_py"><img src="https://img.shields.io/badge/𝗝𝗔𝗥𝗩𝗜𝗦_𝗨𝗦𝗘𝗥𝗕𝗢𝗧%20𝗢𝗪𝗡𝗘𝗥-white.svg?style=for-the-badge&logo=Telegram"></a>
   
  <a href="https://t.me/@legendboy_op"><img src="https://img.shields.io/badge/𝗟𝗘𝗚𝗘𝗡𝗗_𝗨𝗦𝗘𝗥𝗕𝗢𝗧%20𝗢𝗪𝗡𝗘𝗥-darkgreen.svg?style=for-the-badge&logo=Telegram"></a>
   
