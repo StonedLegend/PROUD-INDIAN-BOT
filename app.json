@@ -29,7 +29,7 @@
       "required": false
     },
     "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .alive Or .op  Command.",
+      "description": "Set Custom Alive Message When entering ×alive Or ×indian  Command.",
       "value": "BOT ONLINE",
       "required": false
     },
@@ -38,6 +38,11 @@
       "value": "{@proud_indian_bot}",
       "required": false
     },
+    "AGORA_PIC": {
+      "description": "leave this default if you are indian (DONT EDIT)!!",
+      "value": "https://te.legra.ph/file/40b46b2ea966af5159c5e.mp4",
+      "required": true 
+   },
     "YOUR_CHANNEL": {
       "description": "Set Ur Group Username",
       "value": "{@proud_indian_bot}",
@@ -61,7 +66,7 @@
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .pyalive Or .op command.",
-      "value": "https://telegra.ph/file/8c3296520865d74522cd0.jpg",
+      "value": "https://te.legra.ph/file/40b46b2ea966af5159c5e.mp4",
       "required": false
     },
     "BIO_MSG": {
@@ -104,7 +109,7 @@
       "required": false
     },
     "COMMAND_HAND_LER": {
-      "description": "U can Change Ur command Handler By Default it is (.)",
+      "description": "U can Change Ur command Handler By Default it is (×)",
       "value": "×",
       "required": true
       },
@@ -129,7 +134,7 @@
        "value": ""
     }, 
     "STONEDLEGEND_STRING": {
-      "description": "Get this value by running https://replit.com/@LEGEND-LX/PYTHONBOT-4#main.py ",
+      "description": "Get this value by running https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py ",
       "value": ""
     },
     "HEROKU_API_KEY": {
@@ -172,17 +177,17 @@
     },
     "EMOJI_IN_HELP1": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "⚜",
+      "value": "🇮🇳",
       "required": true
     },
     "EMOJI_IN_HELP2": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "💫",
+      "value": "🇮🇳",
       "required": false
     },
     "ALIVE_EMOJI": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "⚡",
+      "value": "🇮🇳",
       "required": false
     },
     "PM_DATA": {
