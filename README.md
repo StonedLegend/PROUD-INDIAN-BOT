@@ -9,10 +9,10 @@
 <h3 align="center">
 <b>ɪ ᴀᴍ ᴘʀᴏᴜᴅ ᴛᴏ ʙᴇ ᴀɴ ɪɴᴅɪᴀɴ🇮🇳𝗠𝗔𝗔 𝗧𝗨𝗝𝗛𝗘 𝗦𝗔𝗟𝗔𝗠🇮🇳 ɪ ᴀᴍ ᴘʀᴏᴜᴅ ᴛᴏ ᴜsᴇ ɴᴀᴛɪᴏɴᴀʟɪᴛʏ ʙᴏᴛ
     ⚡🇮🇳⚡𝗣𝗥𝗢𝗨𝗗 𝗜𝗡𝗗𝗜𝗔𝗡 𝗕𝗢𝗧⚡🇮🇳⚡.</b>
+
 </h3>
 <p align="center">
 <a href="https://github.com/StonedLegend/PROUD-INDIAN-BOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/StonedLegend/PROUD-INDIAN-BOT?style=flat&logo=github&color=success" /> </a> 
-
 <a href="https://github.com/StonedLegend/PROUD-INDIAN-BOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/StonedLegend/PROUD-INDIAN-BOT?label=Forks&logo=github" /> </a>
 <a href="https://github.com/StonedLegend/PROUD-INDIAN-BOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/StonedLegend/PROUD-INDIAN-BOT?color=success" /> </a>  
 <a href="https://github.com/StonedLegend/PROUD-INDIAN-BOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/StonedLegend/PROUD-INDIAN-BOT?style=flat&logo=github&color=yellow" /> </a>
