@@ -22,7 +22,6 @@
 <a href="https://github.com/StonedLegend/PROUD-INDIAN-BOT" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
 <a href="https://github.com/StonedLegend/PROUD-INDIAN-BOT" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/StonedLegend/PROUD-INDIAN-BOT" /> </a>
 <a href="https://github.com/StonedLegend/PROUD-INDIAN-BOT/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
-</p>  
 <p align="center">
 <a href="https://t.me/proud_indian_bot" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 <a href="https://github.com/StonedLegend/PROUD-INDIAN-BOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
