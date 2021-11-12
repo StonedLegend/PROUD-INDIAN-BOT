@@ -35,12 +35,12 @@
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "{}",
+      "value": "{@proud_indian_bot}",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Group Username",
-      "value": "{}",
+      "value": "{@proud_indian_bot}",
       "required": false
     },
     "EXTRA_PLUGIN": {
@@ -55,7 +55,7 @@
     },
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .indian command.",
-      "value": "https://telegra.ph/file/8c3296520865d74522cd0.jpg",
+      "value": "https://te.legra.ph/file/40b46b2ea966af5159c5e.mp4",
       "required": true
     
     },
