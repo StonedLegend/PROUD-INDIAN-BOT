@@ -1,1 +1,1 @@
-worker: bash PROUDINDIANBOT
+worker: bash PROUD-INDIAN-BOT
