@@ -19,7 +19,7 @@ print(Style.BRIGHT + Fore.BLUE + logo)
 print(Style.RESET_ALL)
 print(Style.BRIGHT + Fore.CYAN + Back.BLUE + bhai_bolte)
 print(Style.RESET_ALL)
-print("""Welcome To PROUDINDIANBOT String Generator By @STONEDLEGENDAGORA""")
+print("""Welcome To PROUD-INDIAN-BOT String Generator By @STONEDLEGENDAGORA""")
 print("""Kindly Enter Your Details To Continue ! """)
 
 API_KEY = input("API_KEY: ")
