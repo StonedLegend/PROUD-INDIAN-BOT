@@ -4,10 +4,10 @@
 _get_repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $StonedLegend_REPO == "PROUDINDIANBOT" ]]
+    if [[ $StonedLegend_REPO == "PROUD-INDIAN-BOT" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL1B5MTAwMC9QUk9VRFVTRVJCT1QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
-    elif [[ $StonedLegend_REPO == "PROUDINDIANBOT" ]]
+    elif [[ $StonedLegend_REPO == "PROUD-INDIAN-BOT" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL1B5MTAwMC9QUk9VRFVTRVJCT1QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
     elif [[ $StonedLegend_REPO =~ $regex ]]
@@ -26,20 +26,20 @@ _get_repolink () {
 
 _set_bot () {
     local zippath
-    zippath="PROUDINDIANBOT.zip"
-    echo "  ⚜Starting Downloading PROUDINDIANBOT.0Source Code...🇮🇳"
+    zippath="PROUD-INDIAN-BOT.zip"
+    echo "  ⚜Starting Downloading PROUD-INDIAN-BOT.0Source Code...🇮🇳"
     wget -q $(_get_repolink) -O "$zippath"
     echo "  Unpacking Data thoda ruko tab tak jorse bolo BHARATH MATA KI  ..."
     StonedLegendPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo "Done"
-    echo " SABAR KARO PROUDINDIANBOT KE SWACH BHARATH ABIYAN CHAL RAH HAI.."
+    echo " SABAR KARO PROUD INDIAN BOT KE SWACH BHARATH ABIYAN CHAL RAH HAI.."
     rm -rf "$zippath"
     sleep 5
     cd $StonedLegendPATH
-    echo "    • Starting 🇮🇳PROUDINDIANBOT🇮🇳•    "
+    echo "    • Starting 🇮🇳⚡ PROUD-INDIAN-BOT ⚡🇮🇳•    "
     echo "
-    PROUDINDIANBOT
+    PROUD-INDIAN-BOT
     "
 
     python3 ../setup/updater.py ../requirements.txt requirements.txt
